@@ -1,0 +1,788 @@
+﻿CALENDAR_YEAR,COC_ID,COC_NAME,ETHNICITY,EXPERIENCING_HOMELESSNESS
+2017,All,California,Hispanic/Latinx,59663
+2017,All,California,Not Hispanic/Latinx,118412
+2017,All,California,Unknown,3796
+2017,CA-500,Santa Clara County CoC,Hispanic/Latinx,5010
+2017,CA-500,Santa Clara County CoC,Not Hispanic/Latinx,5005
+2017,CA-500,Santa Clara County CoC,Unknown,59
+2017,CA-501,San Francisco CoC,Hispanic/Latinx,1219
+2017,CA-501,San Francisco CoC,Not Hispanic/Latinx,2892
+2017,CA-501,San Francisco CoC,Unknown,281
+2017,CA-502,Alameda County CoC,Hispanic/Latinx,1279
+2017,CA-502,Alameda County CoC,Not Hispanic/Latinx,5277
+2017,CA-502,Alameda County CoC,Unknown,47
+2017,CA-503,Sacramento County CoC,Hispanic/Latinx,1835
+2017,CA-503,Sacramento County CoC,Not Hispanic/Latinx,8458
+2017,CA-503,Sacramento County CoC,Unknown,*
+2017,CA-504,Sonoma County CoC,Hispanic/Latinx,874
+2017,CA-504,Sonoma County CoC,Not Hispanic/Latinx,2213
+2017,CA-504,Sonoma County CoC,Unknown,*
+2017,CA-505,Contra Costa County CoC,Hispanic/Latinx,867
+2017,CA-505,Contra Costa County CoC,Not Hispanic/Latinx,3898
+2017,CA-505,Contra Costa County CoC,Unknown,37
+2017,CA-506,"Monterey, San Benito Counties CoC",Hispanic/Latinx,187
+2017,CA-506,"Monterey, San Benito Counties CoC",Not Hispanic/Latinx,267
+2017,CA-506,"Monterey, San Benito Counties CoC",Unknown,*
+2017,CA-507,Marin County CoC,Hispanic/Latinx,359
+2017,CA-507,Marin County CoC,Not Hispanic/Latinx,1233
+2017,CA-507,Marin County CoC,Unknown,33
+2017,CA-508,Santa Cruz County CoC,Hispanic/Latinx,687
+2017,CA-508,Santa Cruz County CoC,Not Hispanic/Latinx,1158
+2017,CA-508,Santa Cruz County CoC,Unknown,49
+2017,CA-509,Mendocino County CoC,Hispanic/Latinx,82
+2017,CA-509,Mendocino County CoC,Not Hispanic/Latinx,625
+2017,CA-509,Mendocino County CoC,Unknown,*
+2017,CA-510,Stanislaus County CoC,Hispanic/Latinx,2816
+2017,CA-510,Stanislaus County CoC,Not Hispanic/Latinx,3385
+2017,CA-510,Stanislaus County CoC,Unknown,*
+2017,CA-511,San Joaquin County CoC,Hispanic/Latinx,3138
+2017,CA-511,San Joaquin County CoC,Not Hispanic/Latinx,6119
+2017,CA-511,San Joaquin County CoC,Unknown,361
+2017,CA-512,San Mateo County CoC,Hispanic/Latinx,1518
+2017,CA-512,San Mateo County CoC,Not Hispanic/Latinx,2736
+2017,CA-512,San Mateo County CoC,Unknown,56
+2017,CA-513,"Kings, Tulare Counties CoC",Hispanic/Latinx,1475
+2017,CA-513,"Kings, Tulare Counties CoC",Not Hispanic/Latinx,1558
+2017,CA-513,"Kings, Tulare Counties CoC",Unknown,15
+2017,CA-514,"Fresno, Madera Counties CoC",Hispanic/Latinx,821
+2017,CA-514,"Fresno, Madera Counties CoC",Not Hispanic/Latinx,1039
+2017,CA-514,"Fresno, Madera Counties CoC",Unknown,*
+2017,CA-515,Placer County CoC,Hispanic/Latinx,194
+2017,CA-515,Placer County CoC,Not Hispanic/Latinx,1050
+2017,CA-515,Placer County CoC,Unknown,26
+2017,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Hispanic/Latinx,26
+2017,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Not Hispanic/Latinx,191
+2017,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Unknown,38
+2017,CA-517,Napa County CoC,Hispanic/Latinx,314
+2017,CA-517,Napa County CoC,Not Hispanic/Latinx,634
+2017,CA-517,Napa County CoC,Unknown,*
+2017,CA-518,Solano County CoC,Hispanic/Latinx,160
+2017,CA-518,Solano County CoC,Not Hispanic/Latinx,807
+2017,CA-518,Solano County CoC,Unknown,41
+2017,CA-519,Butte County CoC,Hispanic/Latinx,175
+2017,CA-519,Butte County CoC,Not Hispanic/Latinx,1198
+2017,CA-519,Butte County CoC,Unknown,*
+2017,CA-520,Merced County CoC,Hispanic/Latinx,184
+2017,CA-520,Merced County CoC,Not Hispanic/Latinx,407
+2017,CA-520,Merced County CoC,Unknown,*
+2017,CA-521,Yolo County CoC,Hispanic/Latinx,136
+2017,CA-521,Yolo County CoC,Not Hispanic/Latinx,382
+2017,CA-521,Yolo County CoC,Unknown,*
+2017,CA-522,Humboldt County CoC,Hispanic/Latinx,132
+2017,CA-522,Humboldt County CoC,Not Hispanic/Latinx,788
+2017,CA-522,Humboldt County CoC,Unknown,38
+2017,CA-523,"Colusa, Glenn, Trinity Counties CoC",Hispanic/Latinx,97
+2017,CA-523,"Colusa, Glenn, Trinity Counties CoC",Not Hispanic/Latinx,101
+2017,CA-525,El Dorado County CoC,Hispanic/Latinx,28
+2017,CA-525,El Dorado County CoC,Not Hispanic/Latinx,100
+2017,CA-525,El Dorado County CoC,Unknown,*
+2017,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Hispanic/Latinx,68
+2017,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Not Hispanic/Latinx,315
+2017,CA-527,Tehama County CoC,Hispanic/Latinx,44
+2017,CA-527,Tehama County CoC,Not Hispanic/Latinx,351
+2017,CA-527,Tehama County CoC,Unknown,*
+2017,CA-529,Lake County CoC,Hispanic/Latinx,13
+2017,CA-529,Lake County CoC,Not Hispanic/Latinx,39
+2017,CA-530,"Alpine, Inyo, Mono Counties CoC",Hispanic/Latinx,40
+2017,CA-530,"Alpine, Inyo, Mono Counties CoC",Not Hispanic/Latinx,121
+2017,CA-531,Nevada County CoC,Hispanic/Latinx,34
+2017,CA-531,Nevada County CoC,Not Hispanic/Latinx,426
+2017,CA-531,Nevada County CoC,Unknown,*
+2017,CA-600,Los Angeles County CoC,Hispanic/Latinx,18389
+2017,CA-600,Los Angeles County CoC,Not Hispanic/Latinx,35926
+2017,CA-600,Los Angeles County CoC,Unknown,2009
+2017,CA-601,San Diego County CoC,Hispanic/Latinx,3362
+2017,CA-601,San Diego County CoC,Not Hispanic/Latinx,8113
+2017,CA-601,San Diego County CoC,Unknown,97
+2017,CA-602,Orange County CoC,Hispanic/Latinx,4073
+2017,CA-602,Orange County CoC,Not Hispanic/Latinx,6079
+2017,CA-602,Orange County CoC,Unknown,327
+2017,CA-603,Santa Barbara County CoC,Hispanic/Latinx,1204
+2017,CA-603,Santa Barbara County CoC,Not Hispanic/Latinx,1521
+2017,CA-603,Santa Barbara County CoC,Unknown,73
+2017,CA-604,Kern County CoC,Hispanic/Latinx,1689
+2017,CA-604,Kern County CoC,Not Hispanic/Latinx,2927
+2017,CA-606,Long Beach CoC (Los Angeles County),Hispanic/Latinx,658
+2017,CA-606,Long Beach CoC (Los Angeles County),Not Hispanic/Latinx,2077
+2017,CA-607,Pasadena CoC (Los Angeles County),Hispanic/Latinx,512
+2017,CA-607,Pasadena CoC (Los Angeles County),Not Hispanic/Latinx,739
+2017,CA-607,Pasadena CoC (Los Angeles County),Unknown,70
+2017,CA-608,Riverside County CoC,Hispanic/Latinx,2454
+2017,CA-608,Riverside County CoC,Not Hispanic/Latinx,4149
+2017,CA-608,Riverside County CoC,Unknown,44
+2017,CA-609,San Bernardino County CoC,Hispanic/Latinx,2753
+2017,CA-609,San Bernardino County CoC,Not Hispanic/Latinx,5632
+2017,CA-609,San Bernardino County CoC,Unknown,*
+2017,CA-611,Ventura County CoC,Hispanic/Latinx,996
+2017,CA-611,Ventura County CoC,Not Hispanic/Latinx,934
+2017,CA-611,Ventura County CoC,Unknown,*
+2017,CA-612,Glendale CoC (Los Angeles County),Hispanic/Latinx,143
+2017,CA-612,Glendale CoC (Los Angeles County),Not Hispanic/Latinx,202
+2017,CA-612,Glendale CoC (Los Angeles County),Unknown,*
+2017,CA-613,Imperial County CoC,Hispanic/Latinx,445
+2017,CA-613,Imperial County CoC,Not Hispanic/Latinx,52
+2017,CA-614,San Luis Obispo County CoC,Hispanic/Latinx,558
+2017,CA-614,San Luis Obispo County CoC,Not Hispanic/Latinx,1117
+2017,CA-614,San Luis Obispo County CoC,Unknown,36
+2018,All,California,Hispanic/Latinx,70523
+2018,All,California,Not Hispanic/Latinx,136708
+2018,All,California,Unknown,4771
+2018,CA-500,Santa Clara County CoC,Hispanic/Latinx,5240
+2018,CA-500,Santa Clara County CoC,Not Hispanic/Latinx,5273
+2018,CA-500,Santa Clara County CoC,Unknown,60
+2018,CA-501,San Francisco CoC,Hispanic/Latinx,1542
+2018,CA-501,San Francisco CoC,Not Hispanic/Latinx,3831
+2018,CA-501,San Francisco CoC,Unknown,308
+2018,CA-502,Alameda County CoC,Hispanic/Latinx,1230
+2018,CA-502,Alameda County CoC,Not Hispanic/Latinx,5227
+2018,CA-502,Alameda County CoC,Unknown,20
+2018,CA-503,Sacramento County CoC,Hispanic/Latinx,1988
+2018,CA-503,Sacramento County CoC,Not Hispanic/Latinx,8795
+2018,CA-503,Sacramento County CoC,Unknown,27
+2018,CA-504,Sonoma County CoC,Hispanic/Latinx,899
+2018,CA-504,Sonoma County CoC,Not Hispanic/Latinx,2317
+2018,CA-504,Sonoma County CoC,Unknown,*
+2018,CA-505,Contra Costa County CoC,Hispanic/Latinx,998
+2018,CA-505,Contra Costa County CoC,Not Hispanic/Latinx,4383
+2018,CA-505,Contra Costa County CoC,Unknown,75
+2018,CA-506,"Monterey, San Benito Counties CoC",Hispanic/Latinx,446
+2018,CA-506,"Monterey, San Benito Counties CoC",Not Hispanic/Latinx,475
+2018,CA-506,"Monterey, San Benito Counties CoC",Unknown,*
+2018,CA-507,Marin County CoC,Hispanic/Latinx,249
+2018,CA-507,Marin County CoC,Not Hispanic/Latinx,1054
+2018,CA-507,Marin County CoC,Unknown,21
+2018,CA-508,Santa Cruz County CoC,Hispanic/Latinx,741
+2018,CA-508,Santa Cruz County CoC,Not Hispanic/Latinx,1168
+2018,CA-508,Santa Cruz County CoC,Unknown,71
+2018,CA-509,Mendocino County CoC,Hispanic/Latinx,80
+2018,CA-509,Mendocino County CoC,Not Hispanic/Latinx,488
+2018,CA-509,Mendocino County CoC,Unknown,20
+2018,CA-510,Stanislaus County CoC,Hispanic/Latinx,2654
+2018,CA-510,Stanislaus County CoC,Not Hispanic/Latinx,3494
+2018,CA-510,Stanislaus County CoC,Unknown,*
+2018,CA-511,San Joaquin County CoC,Hispanic/Latinx,3414
+2018,CA-511,San Joaquin County CoC,Not Hispanic/Latinx,7389
+2018,CA-511,San Joaquin County CoC,Unknown,40
+2018,CA-512,San Mateo County CoC,Hispanic/Latinx,1530
+2018,CA-512,San Mateo County CoC,Not Hispanic/Latinx,2846
+2018,CA-512,San Mateo County CoC,Unknown,24
+2018,CA-513,"Kings, Tulare Counties CoC",Hispanic/Latinx,1528
+2018,CA-513,"Kings, Tulare Counties CoC",Not Hispanic/Latinx,1501
+2018,CA-513,"Kings, Tulare Counties CoC",Unknown,16
+2018,CA-514,"Fresno, Madera Counties CoC",Hispanic/Latinx,969
+2018,CA-514,"Fresno, Madera Counties CoC",Not Hispanic/Latinx,1297
+2018,CA-514,"Fresno, Madera Counties CoC",Unknown,35
+2018,CA-515,Placer County CoC,Hispanic/Latinx,293
+2018,CA-515,Placer County CoC,Not Hispanic/Latinx,1176
+2018,CA-515,Placer County CoC,Unknown,13
+2018,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Hispanic/Latinx,39
+2018,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Not Hispanic/Latinx,484
+2018,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Unknown,92
+2018,CA-517,Napa County CoC,Hispanic/Latinx,329
+2018,CA-517,Napa County CoC,Not Hispanic/Latinx,603
+2018,CA-517,Napa County CoC,Unknown,*
+2018,CA-518,Solano County CoC,Hispanic/Latinx,171
+2018,CA-518,Solano County CoC,Not Hispanic/Latinx,741
+2018,CA-518,Solano County CoC,Unknown,15
+2018,CA-519,Butte County CoC,Hispanic/Latinx,180
+2018,CA-519,Butte County CoC,Not Hispanic/Latinx,1302
+2018,CA-519,Butte County CoC,Unknown,*
+2018,CA-520,Merced County CoC,Hispanic/Latinx,289
+2018,CA-520,Merced County CoC,Not Hispanic/Latinx,602
+2018,CA-520,Merced County CoC,Unknown,*
+2018,CA-521,Yolo County CoC,Hispanic/Latinx,313
+2018,CA-521,Yolo County CoC,Not Hispanic/Latinx,611
+2018,CA-521,Yolo County CoC,Unknown,24
+2018,CA-522,Humboldt County CoC,Hispanic/Latinx,152
+2018,CA-522,Humboldt County CoC,Not Hispanic/Latinx,842
+2018,CA-522,Humboldt County CoC,Unknown,82
+2018,CA-523,"Colusa, Glenn, Trinity Counties CoC",Hispanic/Latinx,151
+2018,CA-523,"Colusa, Glenn, Trinity Counties CoC",Not Hispanic/Latinx,198
+2018,CA-523,"Colusa, Glenn, Trinity Counties CoC",Unknown,*
+2018,CA-524,"Yuba, Sutter Counties CoC",Not Hispanic/Latinx,*
+2018,CA-525,El Dorado County CoC,Hispanic/Latinx,48
+2018,CA-525,El Dorado County CoC,Not Hispanic/Latinx,189
+2018,CA-525,El Dorado County CoC,Unknown,15
+2018,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Hispanic/Latinx,78
+2018,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Not Hispanic/Latinx,338
+2018,CA-527,Tehama County CoC,Hispanic/Latinx,72
+2018,CA-527,Tehama County CoC,Not Hispanic/Latinx,339
+2018,CA-527,Tehama County CoC,Unknown,*
+2018,CA-529,Lake County CoC,Hispanic/Latinx,24
+2018,CA-529,Lake County CoC,Not Hispanic/Latinx,67
+2018,CA-530,"Alpine, Inyo, Mono Counties CoC",Hispanic/Latinx,58
+2018,CA-530,"Alpine, Inyo, Mono Counties CoC",Not Hispanic/Latinx,161
+2018,CA-531,Nevada County CoC,Hispanic/Latinx,51
+2018,CA-531,Nevada County CoC,Not Hispanic/Latinx,493
+2018,CA-531,Nevada County CoC,Unknown,*
+2018,CA-600,Los Angeles County CoC,Hispanic/Latinx,24912
+2018,CA-600,Los Angeles County CoC,Not Hispanic/Latinx,46981
+2018,CA-600,Los Angeles County CoC,Unknown,3124
+2018,CA-601,San Diego County CoC,Hispanic/Latinx,4581
+2018,CA-601,San Diego County CoC,Not Hispanic/Latinx,10374
+2018,CA-601,San Diego County CoC,Unknown,233
+2018,CA-602,Orange County CoC,Hispanic/Latinx,4979
+2018,CA-602,Orange County CoC,Not Hispanic/Latinx,6893
+2018,CA-602,Orange County CoC,Unknown,156
+2018,CA-603,Santa Barbara County CoC,Hispanic/Latinx,1110
+2018,CA-603,Santa Barbara County CoC,Not Hispanic/Latinx,1394
+2018,CA-603,Santa Barbara County CoC,Unknown,166
+2018,CA-604,Kern County CoC,Hispanic/Latinx,1692
+2018,CA-604,Kern County CoC,Not Hispanic/Latinx,3133
+2018,CA-604,Kern County CoC,Unknown,*
+2018,CA-606,Long Beach CoC (Los Angeles County),Hispanic/Latinx,626
+2018,CA-606,Long Beach CoC (Los Angeles County),Not Hispanic/Latinx,2085
+2018,CA-606,Long Beach CoC (Los Angeles County),Unknown,*
+2018,CA-607,Pasadena CoC (Los Angeles County),Hispanic/Latinx,558
+2018,CA-607,Pasadena CoC (Los Angeles County),Not Hispanic/Latinx,792
+2018,CA-607,Pasadena CoC (Los Angeles County),Unknown,*
+2018,CA-608,Riverside County CoC,Hispanic/Latinx,2755
+2018,CA-608,Riverside County CoC,Not Hispanic/Latinx,4367
+2018,CA-608,Riverside County CoC,Unknown,37
+2018,CA-609,San Bernardino County CoC,Hispanic/Latinx,2734
+2018,CA-609,San Bernardino County CoC,Not Hispanic/Latinx,4890
+2018,CA-609,San Bernardino County CoC,Unknown,*
+2018,CA-611,Ventura County CoC,Hispanic/Latinx,884
+2018,CA-611,Ventura County CoC,Not Hispanic/Latinx,848
+2018,CA-611,Ventura County CoC,Unknown,*
+2018,CA-612,Glendale CoC (Los Angeles County),Hispanic/Latinx,170
+2018,CA-612,Glendale CoC (Los Angeles County),Not Hispanic/Latinx,198
+2018,CA-612,Glendale CoC (Los Angeles County),Unknown,*
+2018,CA-613,Imperial County CoC,Hispanic/Latinx,757
+2018,CA-613,Imperial County CoC,Not Hispanic/Latinx,102
+2018,CA-613,Imperial County CoC,Unknown,*
+2018,CA-614,San Luis Obispo County CoC,Hispanic/Latinx,611
+2018,CA-614,San Luis Obispo County CoC,Not Hispanic/Latinx,1165
+2018,CA-614,San Luis Obispo County CoC,Unknown,26
+2019,All,California,Hispanic/Latinx,80351
+2019,All,California,Not Hispanic/Latinx,152515
+2019,All,California,Unknown,5157
+2019,CA-500,Santa Clara County CoC,Hispanic/Latinx,5950
+2019,CA-500,Santa Clara County CoC,Not Hispanic/Latinx,5855
+2019,CA-500,Santa Clara County CoC,Unknown,58
+2019,CA-501,San Francisco CoC,Hispanic/Latinx,2364
+2019,CA-501,San Francisco CoC,Not Hispanic/Latinx,5450
+2019,CA-501,San Francisco CoC,Unknown,232
+2019,CA-502,Alameda County CoC,Hispanic/Latinx,1412
+2019,CA-502,Alameda County CoC,Not Hispanic/Latinx,6114
+2019,CA-502,Alameda County CoC,Unknown,30
+2019,CA-503,Sacramento County CoC,Hispanic/Latinx,1948
+2019,CA-503,Sacramento County CoC,Not Hispanic/Latinx,8933
+2019,CA-503,Sacramento County CoC,Unknown,15
+2019,CA-504,Sonoma County CoC,Hispanic/Latinx,967
+2019,CA-504,Sonoma County CoC,Not Hispanic/Latinx,2831
+2019,CA-504,Sonoma County CoC,Unknown,31
+2019,CA-505,Contra Costa County CoC,Hispanic/Latinx,1117
+2019,CA-505,Contra Costa County CoC,Not Hispanic/Latinx,4587
+2019,CA-505,Contra Costa County CoC,Unknown,105
+2019,CA-506,"Monterey, San Benito Counties CoC",Hispanic/Latinx,497
+2019,CA-506,"Monterey, San Benito Counties CoC",Not Hispanic/Latinx,480
+2019,CA-506,"Monterey, San Benito Counties CoC",Unknown,*
+2019,CA-507,Marin County CoC,Hispanic/Latinx,315
+2019,CA-507,Marin County CoC,Not Hispanic/Latinx,876
+2019,CA-507,Marin County CoC,Unknown,21
+2019,CA-508,Santa Cruz County CoC,Hispanic/Latinx,1017
+2019,CA-508,Santa Cruz County CoC,Not Hispanic/Latinx,1345
+2019,CA-508,Santa Cruz County CoC,Unknown,73
+2019,CA-509,Mendocino County CoC,Hispanic/Latinx,119
+2019,CA-509,Mendocino County CoC,Not Hispanic/Latinx,589
+2019,CA-509,Mendocino County CoC,Unknown,22
+2019,CA-510,Stanislaus County CoC,Hispanic/Latinx,2610
+2019,CA-510,Stanislaus County CoC,Not Hispanic/Latinx,3621
+2019,CA-510,Stanislaus County CoC,Unknown,*
+2019,CA-511,San Joaquin County CoC,Hispanic/Latinx,3834
+2019,CA-511,San Joaquin County CoC,Not Hispanic/Latinx,7126
+2019,CA-511,San Joaquin County CoC,Unknown,74
+2019,CA-512,San Mateo County CoC,Hispanic/Latinx,1592
+2019,CA-512,San Mateo County CoC,Not Hispanic/Latinx,2831
+2019,CA-512,San Mateo County CoC,Unknown,35
+2019,CA-513,"Kings, Tulare Counties CoC",Hispanic/Latinx,1790
+2019,CA-513,"Kings, Tulare Counties CoC",Not Hispanic/Latinx,1707
+2019,CA-513,"Kings, Tulare Counties CoC",Unknown,19
+2019,CA-514,"Fresno, Madera Counties CoC",Hispanic/Latinx,1163
+2019,CA-514,"Fresno, Madera Counties CoC",Not Hispanic/Latinx,1427
+2019,CA-514,"Fresno, Madera Counties CoC",Unknown,30
+2019,CA-515,Placer County CoC,Hispanic/Latinx,315
+2019,CA-515,Placer County CoC,Not Hispanic/Latinx,1338
+2019,CA-515,Placer County CoC,Unknown,32
+2019,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Hispanic/Latinx,64
+2019,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Not Hispanic/Latinx,616
+2019,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Unknown,174
+2019,CA-517,Napa County CoC,Hispanic/Latinx,296
+2019,CA-517,Napa County CoC,Not Hispanic/Latinx,630
+2019,CA-517,Napa County CoC,Unknown,*
+2019,CA-518,Solano County CoC,Hispanic/Latinx,204
+2019,CA-518,Solano County CoC,Not Hispanic/Latinx,961
+2019,CA-518,Solano County CoC,Unknown,15
+2019,CA-519,Butte County CoC,Hispanic/Latinx,208
+2019,CA-519,Butte County CoC,Not Hispanic/Latinx,1524
+2019,CA-519,Butte County CoC,Unknown,15
+2019,CA-520,Merced County CoC,Hispanic/Latinx,1705
+2019,CA-520,Merced County CoC,Not Hispanic/Latinx,1417
+2019,CA-520,Merced County CoC,Unknown,*
+2019,CA-521,Yolo County CoC,Hispanic/Latinx,374
+2019,CA-521,Yolo County CoC,Not Hispanic/Latinx,775
+2019,CA-521,Yolo County CoC,Unknown,45
+2019,CA-522,Humboldt County CoC,Hispanic/Latinx,132
+2019,CA-522,Humboldt County CoC,Not Hispanic/Latinx,1164
+2019,CA-522,Humboldt County CoC,Unknown,323
+2019,CA-523,"Colusa, Glenn, Trinity Counties CoC",Hispanic/Latinx,155
+2019,CA-523,"Colusa, Glenn, Trinity Counties CoC",Not Hispanic/Latinx,227
+2019,CA-523,"Colusa, Glenn, Trinity Counties CoC",Unknown,*
+2019,CA-524,"Yuba, Sutter Counties CoC",Hispanic/Latinx,*
+2019,CA-524,"Yuba, Sutter Counties CoC",Not Hispanic/Latinx,27
+2019,CA-525,El Dorado County CoC,Hispanic/Latinx,37
+2019,CA-525,El Dorado County CoC,Not Hispanic/Latinx,183
+2019,CA-525,El Dorado County CoC,Unknown,*
+2019,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Hispanic/Latinx,75
+2019,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Not Hispanic/Latinx,314
+2019,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Unknown,*
+2019,CA-527,Tehama County CoC,Hispanic/Latinx,49
+2019,CA-527,Tehama County CoC,Not Hispanic/Latinx,320
+2019,CA-527,Tehama County CoC,Unknown,*
+2019,CA-529,Lake County CoC,Hispanic/Latinx,51
+2019,CA-529,Lake County CoC,Not Hispanic/Latinx,199
+2019,CA-530,"Alpine, Inyo, Mono Counties CoC",Hispanic/Latinx,42
+2019,CA-530,"Alpine, Inyo, Mono Counties CoC",Not Hispanic/Latinx,111
+2019,CA-530,"Alpine, Inyo, Mono Counties CoC",Unknown,*
+2019,CA-531,Nevada County CoC,Hispanic/Latinx,46
+2019,CA-531,Nevada County CoC,Not Hispanic/Latinx,558
+2019,CA-531,Nevada County CoC,Unknown,*
+2019,CA-600,Los Angeles County CoC,Hispanic/Latinx,28907
+2019,CA-600,Los Angeles County CoC,Not Hispanic/Latinx,54215
+2019,CA-600,Los Angeles County CoC,Unknown,3050
+2019,CA-601,San Diego County CoC,Hispanic/Latinx,4759
+2019,CA-601,San Diego County CoC,Not Hispanic/Latinx,10927
+2019,CA-601,San Diego County CoC,Unknown,461
+2019,CA-602,Orange County CoC,Hispanic/Latinx,5092
+2019,CA-602,Orange County CoC,Not Hispanic/Latinx,7253
+2019,CA-602,Orange County CoC,Unknown,61
+2019,CA-603,Santa Barbara County CoC,Hispanic/Latinx,1151
+2019,CA-603,Santa Barbara County CoC,Not Hispanic/Latinx,1588
+2019,CA-603,Santa Barbara County CoC,Unknown,46
+2019,CA-604,Kern County CoC,Hispanic/Latinx,1868
+2019,CA-604,Kern County CoC,Not Hispanic/Latinx,3250
+2019,CA-604,Kern County CoC,Unknown,*
+2019,CA-606,Long Beach CoC (Los Angeles County),Hispanic/Latinx,766
+2019,CA-606,Long Beach CoC (Los Angeles County),Not Hispanic/Latinx,2409
+2019,CA-606,Long Beach CoC (Los Angeles County),Unknown,60
+2019,CA-607,Pasadena CoC (Los Angeles County),Hispanic/Latinx,425
+2019,CA-607,Pasadena CoC (Los Angeles County),Not Hispanic/Latinx,659
+2019,CA-607,Pasadena CoC (Los Angeles County),Unknown,15
+2019,CA-608,Riverside County CoC,Hispanic/Latinx,3059
+2019,CA-608,Riverside County CoC,Not Hispanic/Latinx,4910
+2019,CA-608,Riverside County CoC,Unknown,20
+2019,CA-609,San Bernardino County CoC,Hispanic/Latinx,2821
+2019,CA-609,San Bernardino County CoC,Not Hispanic/Latinx,5213
+2019,CA-609,San Bernardino County CoC,Unknown,*
+2019,CA-611,Ventura County CoC,Hispanic/Latinx,1123
+2019,CA-611,Ventura County CoC,Not Hispanic/Latinx,915
+2019,CA-611,Ventura County CoC,Unknown,*
+2019,CA-612,Glendale CoC (Los Angeles County),Hispanic/Latinx,178
+2019,CA-612,Glendale CoC (Los Angeles County),Not Hispanic/Latinx,260
+2019,CA-613,Imperial County CoC,Hispanic/Latinx,704
+2019,CA-613,Imperial County CoC,Not Hispanic/Latinx,105
+2019,CA-613,Imperial County CoC,Unknown,20
+2019,CA-614,San Luis Obispo County CoC,Hispanic/Latinx,615
+2019,CA-614,San Luis Obispo County CoC,Not Hispanic/Latinx,1404
+2019,CA-614,San Luis Obispo County CoC,Unknown,25
+2020,All,California,Hispanic/Latinx,88335
+2020,All,California,Not Hispanic/Latinx,159546
+2020,All,California,Unknown,7597
+2020,CA-500,Santa Clara County CoC,Hispanic/Latinx,7017
+2020,CA-500,Santa Clara County CoC,Not Hispanic/Latinx,6129
+2020,CA-500,Santa Clara County CoC,Unknown,207
+2020,CA-501,San Francisco CoC,Hispanic/Latinx,3054
+2020,CA-501,San Francisco CoC,Not Hispanic/Latinx,8221
+2020,CA-501,San Francisco CoC,Unknown,308
+2020,CA-502,Alameda County CoC,Hispanic/Latinx,1833
+2020,CA-502,Alameda County CoC,Not Hispanic/Latinx,7216
+2020,CA-502,Alameda County CoC,Unknown,37
+2020,CA-503,Sacramento County CoC,Hispanic/Latinx,1819
+2020,CA-503,Sacramento County CoC,Not Hispanic/Latinx,7970
+2020,CA-503,Sacramento County CoC,Unknown,106
+2020,CA-504,Sonoma County CoC,Hispanic/Latinx,932
+2020,CA-504,Sonoma County CoC,Not Hispanic/Latinx,2841
+2020,CA-504,Sonoma County CoC,Unknown,49
+2020,CA-505,Contra Costa County CoC,Hispanic/Latinx,1236
+2020,CA-505,Contra Costa County CoC,Not Hispanic/Latinx,4714
+2020,CA-505,Contra Costa County CoC,Unknown,153
+2020,CA-506,"Monterey, San Benito Counties CoC",Hispanic/Latinx,947
+2020,CA-506,"Monterey, San Benito Counties CoC",Not Hispanic/Latinx,727
+2020,CA-506,"Monterey, San Benito Counties CoC",Unknown,15
+2020,CA-507,Marin County CoC,Hispanic/Latinx,306
+2020,CA-507,Marin County CoC,Not Hispanic/Latinx,794
+2020,CA-507,Marin County CoC,Unknown,15
+2020,CA-508,Santa Cruz County CoC,Hispanic/Latinx,1180
+2020,CA-508,Santa Cruz County CoC,Not Hispanic/Latinx,1340
+2020,CA-508,Santa Cruz County CoC,Unknown,100
+2020,CA-509,Mendocino County CoC,Hispanic/Latinx,184
+2020,CA-509,Mendocino County CoC,Not Hispanic/Latinx,776
+2020,CA-509,Mendocino County CoC,Unknown,14
+2020,CA-510,Stanislaus County CoC,Hispanic/Latinx,1908
+2020,CA-510,Stanislaus County CoC,Not Hispanic/Latinx,2905
+2020,CA-510,Stanislaus County CoC,Unknown,*
+2020,CA-511,San Joaquin County CoC,Hispanic/Latinx,2648
+2020,CA-511,San Joaquin County CoC,Not Hispanic/Latinx,5026
+2020,CA-511,San Joaquin County CoC,Unknown,51
+2020,CA-512,San Mateo County CoC,Hispanic/Latinx,1482
+2020,CA-512,San Mateo County CoC,Not Hispanic/Latinx,2866
+2020,CA-512,San Mateo County CoC,Unknown,38
+2020,CA-513,"Kings, Tulare Counties CoC",Hispanic/Latinx,1888
+2020,CA-513,"Kings, Tulare Counties CoC",Not Hispanic/Latinx,1656
+2020,CA-513,"Kings, Tulare Counties CoC",Unknown,*
+2020,CA-514,"Fresno, Madera Counties CoC",Hispanic/Latinx,2095
+2020,CA-514,"Fresno, Madera Counties CoC",Not Hispanic/Latinx,2114
+2020,CA-514,"Fresno, Madera Counties CoC",Unknown,21
+2020,CA-515,Placer County CoC,Hispanic/Latinx,335
+2020,CA-515,Placer County CoC,Not Hispanic/Latinx,1363
+2020,CA-515,Placer County CoC,Unknown,41
+2020,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Hispanic/Latinx,109
+2020,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Not Hispanic/Latinx,1139
+2020,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Unknown,217
+2020,CA-517,Napa County CoC,Hispanic/Latinx,639
+2020,CA-517,Napa County CoC,Not Hispanic/Latinx,685
+2020,CA-517,Napa County CoC,Unknown,47
+2020,CA-518,Solano County CoC,Hispanic/Latinx,247
+2020,CA-518,Solano County CoC,Not Hispanic/Latinx,1155
+2020,CA-518,Solano County CoC,Unknown,29
+2020,CA-519,Butte County CoC,Hispanic/Latinx,262
+2020,CA-519,Butte County CoC,Not Hispanic/Latinx,1536
+2020,CA-519,Butte County CoC,Unknown,37
+2020,CA-520,Merced County CoC,Hispanic/Latinx,2292
+2020,CA-520,Merced County CoC,Not Hispanic/Latinx,1558
+2020,CA-520,Merced County CoC,Unknown,*
+2020,CA-521,Yolo County CoC,Hispanic/Latinx,483
+2020,CA-521,Yolo County CoC,Not Hispanic/Latinx,1037
+2020,CA-521,Yolo County CoC,Unknown,61
+2020,CA-522,Humboldt County CoC,Hispanic/Latinx,104
+2020,CA-522,Humboldt County CoC,Not Hispanic/Latinx,1120
+2020,CA-522,Humboldt County CoC,Unknown,520
+2020,CA-523,"Colusa, Glenn, Trinity Counties CoC",Hispanic/Latinx,174
+2020,CA-523,"Colusa, Glenn, Trinity Counties CoC",Not Hispanic/Latinx,332
+2020,CA-523,"Colusa, Glenn, Trinity Counties CoC",Unknown,*
+2020,CA-524,"Yuba, Sutter Counties CoC",Hispanic/Latinx,171
+2020,CA-524,"Yuba, Sutter Counties CoC",Not Hispanic/Latinx,547
+2020,CA-525,El Dorado County CoC,Hispanic/Latinx,42
+2020,CA-525,El Dorado County CoC,Not Hispanic/Latinx,234
+2020,CA-525,El Dorado County CoC,Unknown,*
+2020,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Hispanic/Latinx,58
+2020,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Not Hispanic/Latinx,327
+2020,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Unknown,*
+2020,CA-527,Tehama County CoC,Hispanic/Latinx,49
+2020,CA-527,Tehama County CoC,Not Hispanic/Latinx,386
+2020,CA-527,Tehama County CoC,Unknown,*
+2020,CA-529,Lake County CoC,Hispanic/Latinx,35
+2020,CA-529,Lake County CoC,Not Hispanic/Latinx,183
+2020,CA-529,Lake County CoC,Unknown,*
+2020,CA-530,"Alpine, Inyo, Mono Counties CoC",Hispanic/Latinx,47
+2020,CA-530,"Alpine, Inyo, Mono Counties CoC",Not Hispanic/Latinx,156
+2020,CA-530,"Alpine, Inyo, Mono Counties CoC",Unknown,18
+2020,CA-531,Nevada County CoC,Hispanic/Latinx,43
+2020,CA-531,Nevada County CoC,Not Hispanic/Latinx,492
+2020,CA-531,Nevada County CoC,Unknown,14
+2020,CA-600,Los Angeles County CoC,Hispanic/Latinx,30968
+2020,CA-600,Los Angeles County CoC,Not Hispanic/Latinx,54031
+2020,CA-600,Los Angeles County CoC,Unknown,3616
+2020,CA-601,San Diego County CoC,Hispanic/Latinx,6189
+2020,CA-601,San Diego County CoC,Not Hispanic/Latinx,12941
+2020,CA-601,San Diego County CoC,Unknown,1359
+2020,CA-602,Orange County CoC,Hispanic/Latinx,5292
+2020,CA-602,Orange County CoC,Not Hispanic/Latinx,6885
+2020,CA-602,Orange County CoC,Unknown,139
+2020,CA-603,Santa Barbara County CoC,Hispanic/Latinx,1344
+2020,CA-603,Santa Barbara County CoC,Not Hispanic/Latinx,1472
+2020,CA-603,Santa Barbara County CoC,Unknown,85
+2020,CA-604,Kern County CoC,Hispanic/Latinx,2107
+2020,CA-604,Kern County CoC,Not Hispanic/Latinx,3601
+2020,CA-604,Kern County CoC,Unknown,*
+2020,CA-606,Long Beach CoC (Los Angeles County),Hispanic/Latinx,894
+2020,CA-606,Long Beach CoC (Los Angeles County),Not Hispanic/Latinx,2577
+2020,CA-606,Long Beach CoC (Los Angeles County),Unknown,88
+2020,CA-607,Pasadena CoC (Los Angeles County),Hispanic/Latinx,308
+2020,CA-607,Pasadena CoC (Los Angeles County),Not Hispanic/Latinx,609
+2020,CA-607,Pasadena CoC (Los Angeles County),Unknown,*
+2020,CA-608,Riverside County CoC,Hispanic/Latinx,3313
+2020,CA-608,Riverside County CoC,Not Hispanic/Latinx,5637
+2020,CA-608,Riverside County CoC,Unknown,45
+2020,CA-609,San Bernardino County CoC,Hispanic/Latinx,3341
+2020,CA-609,San Bernardino County CoC,Not Hispanic/Latinx,5970
+2020,CA-609,San Bernardino County CoC,Unknown,24
+2020,CA-611,Ventura County CoC,Hispanic/Latinx,1038
+2020,CA-611,Ventura County CoC,Not Hispanic/Latinx,1193
+2020,CA-611,Ventura County CoC,Unknown,*
+2020,CA-612,Glendale CoC (Los Angeles County),Hispanic/Latinx,220
+2020,CA-612,Glendale CoC (Los Angeles County),Not Hispanic/Latinx,273
+2020,CA-613,Imperial County CoC,Hispanic/Latinx,753
+2020,CA-613,Imperial County CoC,Not Hispanic/Latinx,171
+2020,CA-613,Imperial County CoC,Unknown,81
+2020,CA-614,San Luis Obispo County CoC,Hispanic/Latinx,568
+2020,CA-614,San Luis Obispo County CoC,Not Hispanic/Latinx,1110
+2020,CA-614,San Luis Obispo County CoC,Unknown,18
+2021,All,California,Hispanic/Latinx,97528
+2021,All,California,Not Hispanic/Latinx,166521
+2021,All,California,Unknown,9531
+2021,CA-500,Santa Clara County CoC,Hispanic/Latinx,7842
+2021,CA-500,Santa Clara County CoC,Not Hispanic/Latinx,6687
+2021,CA-500,Santa Clara County CoC,Unknown,266
+2021,CA-501,San Francisco CoC,Hispanic/Latinx,3829
+2021,CA-501,San Francisco CoC,Not Hispanic/Latinx,9795
+2021,CA-501,San Francisco CoC,Unknown,308
+2021,CA-502,Alameda County CoC,Hispanic/Latinx,1820
+2021,CA-502,Alameda County CoC,Not Hispanic/Latinx,8020
+2021,CA-502,Alameda County CoC,Unknown,152
+2021,CA-503,Sacramento County CoC,Hispanic/Latinx,1969
+2021,CA-503,Sacramento County CoC,Not Hispanic/Latinx,8195
+2021,CA-503,Sacramento County CoC,Unknown,322
+2021,CA-504,Sonoma County CoC,Hispanic/Latinx,1049
+2021,CA-504,Sonoma County CoC,Not Hispanic/Latinx,2738
+2021,CA-504,Sonoma County CoC,Unknown,25
+2021,CA-505,Contra Costa County CoC,Hispanic/Latinx,1436
+2021,CA-505,Contra Costa County CoC,Not Hispanic/Latinx,5129
+2021,CA-505,Contra Costa County CoC,Unknown,106
+2021,CA-506,"Monterey, San Benito Counties CoC",Hispanic/Latinx,1183
+2021,CA-506,"Monterey, San Benito Counties CoC",Not Hispanic/Latinx,840
+2021,CA-506,"Monterey, San Benito Counties CoC",Unknown,28
+2021,CA-507,Marin County CoC,Hispanic/Latinx,375
+2021,CA-507,Marin County CoC,Not Hispanic/Latinx,1242
+2021,CA-507,Marin County CoC,Unknown,145
+2021,CA-508,Santa Cruz County CoC,Hispanic/Latinx,1216
+2021,CA-508,Santa Cruz County CoC,Not Hispanic/Latinx,1312
+2021,CA-508,Santa Cruz County CoC,Unknown,94
+2021,CA-509,Mendocino County CoC,Hispanic/Latinx,293
+2021,CA-509,Mendocino County CoC,Not Hispanic/Latinx,998
+2021,CA-509,Mendocino County CoC,Unknown,*
+2021,CA-510,Stanislaus County CoC,Hispanic/Latinx,1920
+2021,CA-510,Stanislaus County CoC,Not Hispanic/Latinx,2977
+2021,CA-510,Stanislaus County CoC,Unknown,22
+2021,CA-511,San Joaquin County CoC,Hispanic/Latinx,2296
+2021,CA-511,San Joaquin County CoC,Not Hispanic/Latinx,4349
+2021,CA-511,San Joaquin County CoC,Unknown,79
+2021,CA-512,San Mateo County CoC,Hispanic/Latinx,1511
+2021,CA-512,San Mateo County CoC,Not Hispanic/Latinx,3011
+2021,CA-512,San Mateo County CoC,Unknown,61
+2021,CA-513,"Kings, Tulare Counties CoC",Hispanic/Latinx,2232
+2021,CA-513,"Kings, Tulare Counties CoC",Not Hispanic/Latinx,1766
+2021,CA-513,"Kings, Tulare Counties CoC",Unknown,*
+2021,CA-514,"Fresno, Madera Counties CoC",Hispanic/Latinx,2883
+2021,CA-514,"Fresno, Madera Counties CoC",Not Hispanic/Latinx,3158
+2021,CA-514,"Fresno, Madera Counties CoC",Unknown,104
+2021,CA-515,Placer County CoC,Hispanic/Latinx,377
+2021,CA-515,Placer County CoC,Not Hispanic/Latinx,1601
+2021,CA-515,Placer County CoC,Unknown,53
+2021,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Hispanic/Latinx,176
+2021,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Not Hispanic/Latinx,1520
+2021,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Unknown,93
+2021,CA-517,Napa County CoC,Hispanic/Latinx,246
+2021,CA-517,Napa County CoC,Not Hispanic/Latinx,489
+2021,CA-517,Napa County CoC,Unknown,15
+2021,CA-518,Solano County CoC,Hispanic/Latinx,254
+2021,CA-518,Solano County CoC,Not Hispanic/Latinx,1279
+2021,CA-518,Solano County CoC,Unknown,43
+2021,CA-519,Butte County CoC,Hispanic/Latinx,295
+2021,CA-519,Butte County CoC,Not Hispanic/Latinx,1707
+2021,CA-519,Butte County CoC,Unknown,47
+2021,CA-520,Merced County CoC,Hispanic/Latinx,2750
+2021,CA-520,Merced County CoC,Not Hispanic/Latinx,1932
+2021,CA-520,Merced County CoC,Unknown,13
+2021,CA-521,Yolo County CoC,Hispanic/Latinx,493
+2021,CA-521,Yolo County CoC,Not Hispanic/Latinx,952
+2021,CA-521,Yolo County CoC,Unknown,43
+2021,CA-522,Humboldt County CoC,Hispanic/Latinx,110
+2021,CA-522,Humboldt County CoC,Not Hispanic/Latinx,1211
+2021,CA-522,Humboldt County CoC,Unknown,384
+2021,CA-523,"Colusa, Glenn, Trinity Counties CoC",Hispanic/Latinx,216
+2021,CA-523,"Colusa, Glenn, Trinity Counties CoC",Not Hispanic/Latinx,452
+2021,CA-523,"Colusa, Glenn, Trinity Counties CoC",Unknown,12
+2021,CA-524,"Yuba, Sutter Counties CoC",Hispanic/Latinx,518
+2021,CA-524,"Yuba, Sutter Counties CoC",Not Hispanic/Latinx,1640
+2021,CA-524,"Yuba, Sutter Counties CoC",Unknown,*
+2021,CA-525,El Dorado County CoC,Hispanic/Latinx,47
+2021,CA-525,El Dorado County CoC,Not Hispanic/Latinx,313
+2021,CA-525,El Dorado County CoC,Unknown,*
+2021,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Hispanic/Latinx,58
+2021,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Not Hispanic/Latinx,336
+2021,CA-527,Tehama County CoC,Hispanic/Latinx,48
+2021,CA-527,Tehama County CoC,Not Hispanic/Latinx,216
+2021,CA-527,Tehama County CoC,Unknown,17
+2021,CA-529,Lake County CoC,Hispanic/Latinx,58
+2021,CA-529,Lake County CoC,Not Hispanic/Latinx,343
+2021,CA-529,Lake County CoC,Unknown,*
+2021,CA-530,"Alpine, Inyo, Mono Counties CoC",Hispanic/Latinx,71
+2021,CA-530,"Alpine, Inyo, Mono Counties CoC",Not Hispanic/Latinx,158
+2021,CA-531,Nevada County CoC,Hispanic/Latinx,65
+2021,CA-531,Nevada County CoC,Not Hispanic/Latinx,588
+2021,CA-531,Nevada County CoC,Unknown,58
+2021,CA-600,Los Angeles County CoC,Hispanic/Latinx,31770
+2021,CA-600,Los Angeles County CoC,Not Hispanic/Latinx,51326
+2021,CA-600,Los Angeles County CoC,Unknown,3320
+2021,CA-601,San Diego County CoC,Hispanic/Latinx,7422
+2021,CA-601,San Diego County CoC,Not Hispanic/Latinx,14545
+2021,CA-601,San Diego County CoC,Unknown,733
+2021,CA-602,Orange County CoC,Hispanic/Latinx,6711
+2021,CA-602,Orange County CoC,Not Hispanic/Latinx,7601
+2021,CA-602,Orange County CoC,Unknown,2403
+2021,CA-603,Santa Barbara County CoC,Hispanic/Latinx,1611
+2021,CA-603,Santa Barbara County CoC,Not Hispanic/Latinx,1647
+2021,CA-603,Santa Barbara County CoC,Unknown,41
+2021,CA-604,Kern County CoC,Hispanic/Latinx,3020
+2021,CA-604,Kern County CoC,Not Hispanic/Latinx,4940
+2021,CA-604,Kern County CoC,Unknown,*
+2021,CA-606,Long Beach CoC (Los Angeles County),Hispanic/Latinx,886
+2021,CA-606,Long Beach CoC (Los Angeles County),Not Hispanic/Latinx,2680
+2021,CA-606,Long Beach CoC (Los Angeles County),Unknown,150
+2021,CA-607,Pasadena CoC (Los Angeles County),Hispanic/Latinx,272
+2021,CA-607,Pasadena CoC (Los Angeles County),Not Hispanic/Latinx,455
+2021,CA-607,Pasadena CoC (Los Angeles County),Unknown,*
+2021,CA-608,Riverside County CoC,Hispanic/Latinx,3170
+2021,CA-608,Riverside County CoC,Not Hispanic/Latinx,4870
+2021,CA-608,Riverside County CoC,Unknown,74
+2021,CA-609,San Bernardino County CoC,Hispanic/Latinx,3468
+2021,CA-609,San Bernardino County CoC,Not Hispanic/Latinx,5352
+2021,CA-609,San Bernardino County CoC,Unknown,20
+2021,CA-611,Ventura County CoC,Hispanic/Latinx,1055
+2021,CA-611,Ventura County CoC,Not Hispanic/Latinx,1224
+2021,CA-611,Ventura County CoC,Unknown,35
+2021,CA-612,Glendale CoC (Los Angeles County),Hispanic/Latinx,189
+2021,CA-612,Glendale CoC (Los Angeles County),Not Hispanic/Latinx,343
+2021,CA-612,Glendale CoC (Los Angeles County),Unknown,*
+2021,CA-613,Imperial County CoC,Hispanic/Latinx,1269
+2021,CA-613,Imperial County CoC,Not Hispanic/Latinx,251
+2021,CA-613,Imperial County CoC,Unknown,149
+2021,CA-614,San Luis Obispo County CoC,Hispanic/Latinx,845
+2021,CA-614,San Luis Obispo County CoC,Not Hispanic/Latinx,1429
+2021,CA-614,San Luis Obispo County CoC,Unknown,77
+2022,All,California,Hispanic/Latinx,115627
+2022,All,California,Not Hispanic/Latinx,188672
+2022,All,California,Unknown,12135
+2022,CA-500,Santa Clara County CoC,Hispanic/Latinx,8907
+2022,CA-500,Santa Clara County CoC,Not Hispanic/Latinx,7420
+2022,CA-500,Santa Clara County CoC,Unknown,285
+2022,CA-501,San Francisco CoC,Hispanic/Latinx,4987
+2022,CA-501,San Francisco CoC,Not Hispanic/Latinx,12927
+2022,CA-501,San Francisco CoC,Unknown,382
+2022,CA-502,Alameda County CoC,Hispanic/Latinx,2214
+2022,CA-502,Alameda County CoC,Not Hispanic/Latinx,9018
+2022,CA-502,Alameda County CoC,Unknown,137
+2022,CA-503,Sacramento County CoC,Hispanic/Latinx,2295
+2022,CA-503,Sacramento County CoC,Not Hispanic/Latinx,8909
+2022,CA-503,Sacramento County CoC,Unknown,349
+2022,CA-504,Sonoma County CoC,Hispanic/Latinx,1114
+2022,CA-504,Sonoma County CoC,Not Hispanic/Latinx,2785
+2022,CA-504,Sonoma County CoC,Unknown,34
+2022,CA-505,Contra Costa County CoC,Hispanic/Latinx,1783
+2022,CA-505,Contra Costa County CoC,Not Hispanic/Latinx,6508
+2022,CA-505,Contra Costa County CoC,Unknown,185
+2022,CA-506,"Monterey, San Benito Counties CoC",Hispanic/Latinx,1311
+2022,CA-506,"Monterey, San Benito Counties CoC",Not Hispanic/Latinx,916
+2022,CA-506,"Monterey, San Benito Counties CoC",Unknown,35
+2022,CA-507,Marin County CoC,Hispanic/Latinx,461
+2022,CA-507,Marin County CoC,Not Hispanic/Latinx,1283
+2022,CA-507,Marin County CoC,Unknown,48
+2022,CA-508,Santa Cruz County CoC,Hispanic/Latinx,1000
+2022,CA-508,Santa Cruz County CoC,Not Hispanic/Latinx,1005
+2022,CA-508,Santa Cruz County CoC,Unknown,55
+2022,CA-509,Mendocino County CoC,Hispanic/Latinx,308
+2022,CA-509,Mendocino County CoC,Not Hispanic/Latinx,1250
+2022,CA-509,Mendocino County CoC,Unknown,24
+2022,CA-510,Stanislaus County CoC,Hispanic/Latinx,2522
+2022,CA-510,Stanislaus County CoC,Not Hispanic/Latinx,3778
+2022,CA-510,Stanislaus County CoC,Unknown,46
+2022,CA-511,San Joaquin County CoC,Hispanic/Latinx,3262
+2022,CA-511,San Joaquin County CoC,Not Hispanic/Latinx,6043
+2022,CA-511,San Joaquin County CoC,Unknown,103
+2022,CA-512,San Mateo County CoC,Hispanic/Latinx,1855
+2022,CA-512,San Mateo County CoC,Not Hispanic/Latinx,3238
+2022,CA-512,San Mateo County CoC,Unknown,85
+2022,CA-513,"Kings, Tulare Counties CoC",Hispanic/Latinx,3789
+2022,CA-513,"Kings, Tulare Counties CoC",Not Hispanic/Latinx,2343
+2022,CA-513,"Kings, Tulare Counties CoC",Unknown,*
+2022,CA-514,"Fresno, Madera Counties CoC",Hispanic/Latinx,3713
+2022,CA-514,"Fresno, Madera Counties CoC",Not Hispanic/Latinx,4055
+2022,CA-514,"Fresno, Madera Counties CoC",Unknown,215
+2022,CA-515,Placer County CoC,Hispanic/Latinx,466
+2022,CA-515,Placer County CoC,Not Hispanic/Latinx,1939
+2022,CA-515,Placer County CoC,Unknown,67
+2022,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Hispanic/Latinx,250
+2022,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Not Hispanic/Latinx,1768
+2022,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Unknown,85
+2022,CA-517,Napa County CoC,Hispanic/Latinx,337
+2022,CA-517,Napa County CoC,Not Hispanic/Latinx,554
+2022,CA-517,Napa County CoC,Unknown,16
+2022,CA-518,Solano County CoC,Hispanic/Latinx,237
+2022,CA-518,Solano County CoC,Not Hispanic/Latinx,1029
+2022,CA-518,Solano County CoC,Unknown,*
+2022,CA-519,Butte County CoC,Hispanic/Latinx,367
+2022,CA-519,Butte County CoC,Not Hispanic/Latinx,2105
+2022,CA-519,Butte County CoC,Unknown,81
+2022,CA-520,Merced County CoC,Hispanic/Latinx,3217
+2022,CA-520,Merced County CoC,Not Hispanic/Latinx,2158
+2022,CA-520,Merced County CoC,Unknown,23
+2022,CA-521,Yolo County CoC,Hispanic/Latinx,437
+2022,CA-521,Yolo County CoC,Not Hispanic/Latinx,887
+2022,CA-521,Yolo County CoC,Unknown,72
+2022,CA-522,Humboldt County CoC,Hispanic/Latinx,238
+2022,CA-522,Humboldt County CoC,Not Hispanic/Latinx,1701
+2022,CA-522,Humboldt County CoC,Unknown,575
+2022,CA-523,"Colusa, Glenn, Trinity Counties CoC",Hispanic/Latinx,161
+2022,CA-523,"Colusa, Glenn, Trinity Counties CoC",Not Hispanic/Latinx,455
+2022,CA-523,"Colusa, Glenn, Trinity Counties CoC",Unknown,*
+2022,CA-524,"Yuba, Sutter Counties CoC",Hispanic/Latinx,652
+2022,CA-524,"Yuba, Sutter Counties CoC",Not Hispanic/Latinx,1905
+2022,CA-524,"Yuba, Sutter Counties CoC",Unknown,14
+2022,CA-525,El Dorado County CoC,Hispanic/Latinx,82
+2022,CA-525,El Dorado County CoC,Not Hispanic/Latinx,394
+2022,CA-525,El Dorado County CoC,Unknown,19
+2022,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Hispanic/Latinx,158
+2022,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Not Hispanic/Latinx,604
+2022,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Unknown,*
+2022,CA-527,Tehama County CoC,Hispanic/Latinx,110
+2022,CA-527,Tehama County CoC,Not Hispanic/Latinx,508
+2022,CA-527,Tehama County CoC,Unknown,50
+2022,CA-529,Lake County CoC,Hispanic/Latinx,59
+2022,CA-529,Lake County CoC,Not Hispanic/Latinx,274
+2022,CA-529,Lake County CoC,Unknown,*
+2022,CA-530,"Alpine, Inyo, Mono Counties CoC",Hispanic/Latinx,28
+2022,CA-530,"Alpine, Inyo, Mono Counties CoC",Not Hispanic/Latinx,85
+2022,CA-530,"Alpine, Inyo, Mono Counties CoC",Unknown,*
+2022,CA-531,Nevada County CoC,Hispanic/Latinx,105
+2022,CA-531,Nevada County CoC,Not Hispanic/Latinx,797
+2022,CA-531,Nevada County CoC,Unknown,76
+2022,CA-600,Los Angeles County CoC,Hispanic/Latinx,34766
+2022,CA-600,Los Angeles County CoC,Not Hispanic/Latinx,53497
+2022,CA-600,Los Angeles County CoC,Unknown,3743
+2022,CA-601,San Diego County CoC,Hispanic/Latinx,8681
+2022,CA-601,San Diego County CoC,Not Hispanic/Latinx,15937
+2022,CA-601,San Diego County CoC,Unknown,526
+2022,CA-602,Orange County CoC,Hispanic/Latinx,9184
+2022,CA-602,Orange County CoC,Not Hispanic/Latinx,9591
+2022,CA-602,Orange County CoC,Unknown,4055
+2022,CA-603,Santa Barbara County CoC,Hispanic/Latinx,1946
+2022,CA-603,Santa Barbara County CoC,Not Hispanic/Latinx,1861
+2022,CA-603,Santa Barbara County CoC,Unknown,30
+2022,CA-604,Kern County CoC,Hispanic/Latinx,3430
+2022,CA-604,Kern County CoC,Not Hispanic/Latinx,5115
+2022,CA-604,Kern County CoC,Unknown,12
+2022,CA-606,Long Beach CoC (Los Angeles County),Hispanic/Latinx,1068
+2022,CA-606,Long Beach CoC (Los Angeles County),Not Hispanic/Latinx,3290
+2022,CA-606,Long Beach CoC (Los Angeles County),Unknown,118
+2022,CA-607,Pasadena CoC (Los Angeles County),Hispanic/Latinx,411
+2022,CA-607,Pasadena CoC (Los Angeles County),Not Hispanic/Latinx,661
+2022,CA-607,Pasadena CoC (Los Angeles County),Unknown,26
+2022,CA-608,Riverside County CoC,Hispanic/Latinx,4026
+2022,CA-608,Riverside County CoC,Not Hispanic/Latinx,5727
+2022,CA-608,Riverside County CoC,Unknown,221
+2022,CA-609,San Bernardino County CoC,Hispanic/Latinx,3838
+2022,CA-609,San Bernardino County CoC,Not Hispanic/Latinx,6392
+2022,CA-609,San Bernardino County CoC,Unknown,68
+2022,CA-611,Ventura County CoC,Hispanic/Latinx,1345
+2022,CA-611,Ventura County CoC,Not Hispanic/Latinx,1470
+2022,CA-611,Ventura County CoC,Unknown,46
+2022,CA-612,Glendale CoC (Los Angeles County),Hispanic/Latinx,233
+2022,CA-612,Glendale CoC (Los Angeles County),Not Hispanic/Latinx,471
+2022,CA-613,Imperial County CoC,Hispanic/Latinx,1518
+2022,CA-613,Imperial County CoC,Not Hispanic/Latinx,248
+2022,CA-613,Imperial County CoC,Unknown,74
+2022,CA-614,San Luis Obispo County CoC,Hispanic/Latinx,994
+2022,CA-614,San Luis Obispo County CoC,Not Hispanic/Latinx,1722
+2022,CA-614,San Luis Obispo County CoC,Unknown,144
