@@ -1,0 +1,1465 @@
+﻿CALENDAR_YEAR,COC_ID,COC_NAME,GENDER,EXPERIENCING_HOMELESSNESS_CNT
+2017,All,California,Female,79356
+2017,All,California,Male,101589
+2017,All,California,Non-Singular Gender,142
+2017,All,California,Questioning Gender,*
+2017,All,California,Transgender,674
+2017,All,California,Unknown,1467
+2017,CA-500,Santa Clara County CoC,Female,3878
+2017,CA-500,Santa Clara County CoC,Male,6226
+2017,CA-500,Santa Clara County CoC,Non-Singular Gender,*
+2017,CA-500,Santa Clara County CoC,Transgender,38
+2017,CA-500,Santa Clara County CoC,Unknown,15
+2017,CA-501,San Francisco CoC,Female,1694
+2017,CA-501,San Francisco CoC,Male,2412
+2017,CA-501,San Francisco CoC,Non-Singular Gender,18
+2017,CA-501,San Francisco CoC,Transgender,51
+2017,CA-501,San Francisco CoC,Unknown,193
+2017,CA-502,Alameda County CoC,Female,3014
+2017,CA-502,Alameda County CoC,Male,3541
+2017,CA-502,Alameda County CoC,Non-Singular Gender,*
+2017,CA-502,Alameda County CoC,Transgender,17
+2017,CA-502,Alameda County CoC,Unknown,24
+2017,CA-503,Sacramento County CoC,Female,4960
+2017,CA-503,Sacramento County CoC,Male,5308
+2017,CA-503,Sacramento County CoC,Non-Singular Gender,*
+2017,CA-503,Sacramento County CoC,Transgender,25
+2017,CA-503,Sacramento County CoC,Unknown,*
+2017,CA-504,Sonoma County CoC,Female,1327
+2017,CA-504,Sonoma County CoC,Male,1743
+2017,CA-504,Sonoma County CoC,Non-Singular Gender,*
+2017,CA-504,Sonoma County CoC,Questioning Gender,*
+2017,CA-504,Sonoma County CoC,Transgender,16
+2017,CA-504,Sonoma County CoC,Unknown,*
+2017,CA-505,Contra Costa County CoC,Female,2063
+2017,CA-505,Contra Costa County CoC,Male,2719
+2017,CA-505,Contra Costa County CoC,Non-Singular Gender,*
+2017,CA-505,Contra Costa County CoC,Transgender,*
+2017,CA-505,Contra Costa County CoC,Unknown,*
+2017,CA-506,"Monterey, San Benito Counties CoC",Female,1227
+2017,CA-506,"Monterey, San Benito Counties CoC",Male,988
+2017,CA-506,"Monterey, San Benito Counties CoC",Non-Singular Gender,*
+2017,CA-506,"Monterey, San Benito Counties CoC",Transgender,*
+2017,CA-507,Marin County CoC,Female,664
+2017,CA-507,Marin County CoC,Male,956
+2017,CA-507,Marin County CoC,Non-Singular Gender,*
+2017,CA-507,Marin County CoC,Transgender,*
+2017,CA-507,Marin County CoC,Unknown,*
+2017,CA-508,Santa Cruz County CoC,Female,775
+2017,CA-508,Santa Cruz County CoC,Male,1094
+2017,CA-508,Santa Cruz County CoC,Non-Singular Gender,*
+2017,CA-508,Santa Cruz County CoC,Transgender,*
+2017,CA-508,Santa Cruz County CoC,Unknown,12
+2017,CA-509,Mendocino County CoC,Female,240
+2017,CA-509,Mendocino County CoC,Male,468
+2017,CA-509,Mendocino County CoC,Non-Singular Gender,*
+2017,CA-509,Mendocino County CoC,Transgender,*
+2017,CA-509,Mendocino County CoC,Unknown,*
+2017,CA-510,Stanislaus County CoC,Female,3073
+2017,CA-510,Stanislaus County CoC,Male,3114
+2017,CA-510,Stanislaus County CoC,Non-Singular Gender,*
+2017,CA-510,Stanislaus County CoC,Transgender,*
+2017,CA-511,San Joaquin County CoC,Female,4634
+2017,CA-511,San Joaquin County CoC,Male,4976
+2017,CA-511,San Joaquin County CoC,Transgender,*
+2017,CA-512,San Mateo County CoC,Female,1640
+2017,CA-512,San Mateo County CoC,Male,2107
+2017,CA-512,San Mateo County CoC,Non-Singular Gender,*
+2017,CA-512,San Mateo County CoC,Transgender,*
+2017,CA-512,San Mateo County CoC,Unknown,*
+2017,CA-513,"Kings, Tulare Counties CoC",Female,1410
+2017,CA-513,"Kings, Tulare Counties CoC",Male,1554
+2017,CA-513,"Kings, Tulare Counties CoC",Non-Singular Gender,*
+2017,CA-513,"Kings, Tulare Counties CoC",Transgender,*
+2017,CA-513,"Kings, Tulare Counties CoC",Unknown,*
+2017,CA-514,"Fresno, Madera Counties CoC",Female,1023
+2017,CA-514,"Fresno, Madera Counties CoC",Male,1202
+2017,CA-514,"Fresno, Madera Counties CoC",Non-Singular Gender,*
+2017,CA-514,"Fresno, Madera Counties CoC",Transgender,*
+2017,CA-514,"Fresno, Madera Counties CoC",Unknown,*
+2017,CA-515,Placer County CoC,Female,557
+2017,CA-515,Placer County CoC,Male,703
+2017,CA-515,Placer County CoC,Transgender,*
+2017,CA-515,Placer County CoC,Unknown,*
+2017,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Female,158
+2017,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Male,94
+2017,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Unknown,*
+2017,CA-517,Napa County CoC,Female,368
+2017,CA-517,Napa County CoC,Male,580
+2017,CA-517,Napa County CoC,Transgender,*
+2017,CA-518,Solano County CoC,Female,441
+2017,CA-518,Solano County CoC,Male,556
+2017,CA-518,Solano County CoC,Unknown,*
+2017,CA-519,Butte County CoC,Female,532
+2017,CA-519,Butte County CoC,Male,738
+2017,CA-519,Butte County CoC,Non-Singular Gender,*
+2017,CA-519,Butte County CoC,Transgender,*
+2017,CA-520,Merced County CoC,Female,193
+2017,CA-520,Merced County CoC,Male,398
+2017,CA-520,Merced County CoC,Transgender,*
+2017,CA-521,Yolo County CoC,Female,256
+2017,CA-521,Yolo County CoC,Male,259
+2017,CA-521,Yolo County CoC,Non-Singular Gender,*
+2017,CA-521,Yolo County CoC,Transgender,*
+2017,CA-522,Humboldt County CoC,Female,420
+2017,CA-522,Humboldt County CoC,Male,526
+2017,CA-522,Humboldt County CoC,Non-Singular Gender,*
+2017,CA-522,Humboldt County CoC,Questioning Gender,*
+2017,CA-522,Humboldt County CoC,Transgender,*
+2017,CA-522,Humboldt County CoC,Unknown,*
+2017,CA-523,"Colusa, Glenn, Trinity Counties CoC",Female,108
+2017,CA-523,"Colusa, Glenn, Trinity Counties CoC",Male,90
+2017,CA-524,"Yuba, Sutter Counties CoC",Female,*
+2017,CA-525,El Dorado County CoC,Female,66
+2017,CA-525,El Dorado County CoC,Male,67
+2017,CA-525,El Dorado County CoC,Non-Singular Gender,*
+2017,CA-525,El Dorado County CoC,Transgender,*
+2017,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Female,224
+2017,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Male,159
+2017,CA-527,Tehama County CoC,Female,143
+2017,CA-527,Tehama County CoC,Male,252
+2017,CA-527,Tehama County CoC,Non-Singular Gender,*
+2017,CA-529,Lake County CoC,Female,32
+2017,CA-529,Lake County CoC,Male,19
+2017,CA-530,"Alpine, Inyo, Mono Counties CoC",Female,78
+2017,CA-530,"Alpine, Inyo, Mono Counties CoC",Male,83
+2017,CA-531,Nevada County CoC,Female,172
+2017,CA-531,Nevada County CoC,Male,290
+2017,CA-600,Los Angeles County CoC,Female,23067
+2017,CA-600,Los Angeles County CoC,Male,31970
+2017,CA-600,Los Angeles County CoC,Non-Singular Gender,47
+2017,CA-600,Los Angeles County CoC,Questioning Gender,*
+2017,CA-600,Los Angeles County CoC,Transgender,330
+2017,CA-600,Los Angeles County CoC,Unknown,909
+2017,CA-601,San Diego County CoC,Female,4506
+2017,CA-601,San Diego County CoC,Male,6980
+2017,CA-601,San Diego County CoC,Non-Singular Gender,*
+2017,CA-601,San Diego County CoC,Transgender,52
+2017,CA-601,San Diego County CoC,Unknown,27
+2017,CA-602,Orange County CoC,Female,4800
+2017,CA-602,Orange County CoC,Male,5496
+2017,CA-602,Orange County CoC,Non-Singular Gender,*
+2017,CA-602,Orange County CoC,Questioning Gender,*
+2017,CA-602,Orange County CoC,Transgender,14
+2017,CA-602,Orange County CoC,Unknown,157
+2017,CA-603,Santa Barbara County CoC,Female,1146
+2017,CA-603,Santa Barbara County CoC,Male,1674
+2017,CA-603,Santa Barbara County CoC,Non-Singular Gender,*
+2017,CA-603,Santa Barbara County CoC,Transgender,*
+2017,CA-603,Santa Barbara County CoC,Unknown,*
+2017,CA-604,Kern County CoC,Female,2025
+2017,CA-604,Kern County CoC,Male,2589
+2017,CA-604,Kern County CoC,Non-Singular Gender,*
+2017,CA-604,Kern County CoC,Transgender,*
+2017,CA-606,Long Beach CoC (Los Angeles County),Female,1150
+2017,CA-606,Long Beach CoC (Los Angeles County),Male,1572
+2017,CA-606,Long Beach CoC (Los Angeles County),Non-Singular Gender,*
+2017,CA-606,Long Beach CoC (Los Angeles County),Transgender,12
+2017,CA-607,Pasadena CoC (Los Angeles County),Female,579
+2017,CA-607,Pasadena CoC (Los Angeles County),Male,677
+2017,CA-607,Pasadena CoC (Los Angeles County),Transgender,*
+2017,CA-607,Pasadena CoC (Los Angeles County),Unknown,56
+2017,CA-608,Riverside County CoC,Female,2753
+2017,CA-608,Riverside County CoC,Male,3849
+2017,CA-608,Riverside County CoC,Non-Singular Gender,*
+2017,CA-608,Riverside County CoC,Transgender,18
+2017,CA-608,Riverside County CoC,Unknown,21
+2017,CA-609,San Bernardino County CoC,Female,4214
+2017,CA-609,San Bernardino County CoC,Male,4170
+2017,CA-609,San Bernardino County CoC,Transgender,*
+2017,CA-611,Ventura County CoC,Female,836
+2017,CA-611,Ventura County CoC,Male,1090
+2017,CA-611,Ventura County CoC,Non-Singular Gender,*
+2017,CA-611,Ventura County CoC,Transgender,*
+2017,CA-611,Ventura County CoC,Unknown,*
+2017,CA-612,Glendale CoC (Los Angeles County),Female,174
+2017,CA-612,Glendale CoC (Los Angeles County),Male,162
+2017,CA-612,Glendale CoC (Los Angeles County),Transgender,*
+2017,CA-612,Glendale CoC (Los Angeles County),Unknown,*
+2017,CA-613,Imperial County CoC,Female,102
+2017,CA-613,Imperial County CoC,Male,395
+2017,CA-614,San Luis Obispo County CoC,Female,750
+2017,CA-614,San Luis Obispo County CoC,Male,955
+2017,CA-614,San Luis Obispo County CoC,Non-Singular Gender,*
+2017,CA-614,San Luis Obispo County CoC,Transgender,*
+2018,All,California,Female,91282
+2018,All,California,Male,118740
+2018,All,California,Non-Singular Gender,222
+2018,All,California,Questioning Gender,*
+2018,All,California,Transgender,931
+2018,All,California,Unknown,1567
+2018,CA-500,Santa Clara County CoC,Female,4111
+2018,CA-500,Santa Clara County CoC,Male,6467
+2018,CA-500,Santa Clara County CoC,Non-Singular Gender,16
+2018,CA-500,Santa Clara County CoC,Transgender,47
+2018,CA-500,Santa Clara County CoC,Unknown,13
+2018,CA-501,San Francisco CoC,Female,2399
+2018,CA-501,San Francisco CoC,Male,3007
+2018,CA-501,San Francisco CoC,Non-Singular Gender,28
+2018,CA-501,San Francisco CoC,Questioning Gender,*
+2018,CA-501,San Francisco CoC,Transgender,69
+2018,CA-501,San Francisco CoC,Unknown,153
+2018,CA-502,Alameda County CoC,Female,2877
+2018,CA-502,Alameda County CoC,Male,3564
+2018,CA-502,Alameda County CoC,Non-Singular Gender,*
+2018,CA-502,Alameda County CoC,Transgender,25
+2018,CA-502,Alameda County CoC,Unknown,*
+2018,CA-503,Sacramento County CoC,Female,5299
+2018,CA-503,Sacramento County CoC,Male,5460
+2018,CA-503,Sacramento County CoC,Non-Singular Gender,12
+2018,CA-503,Sacramento County CoC,Transgender,39
+2018,CA-503,Sacramento County CoC,Unknown,*
+2018,CA-504,Sonoma County CoC,Female,1398
+2018,CA-504,Sonoma County CoC,Male,1803
+2018,CA-504,Sonoma County CoC,Non-Singular Gender,*
+2018,CA-504,Sonoma County CoC,Questioning Gender,*
+2018,CA-504,Sonoma County CoC,Transgender,14
+2018,CA-504,Sonoma County CoC,Unknown,*
+2018,CA-505,Contra Costa County CoC,Female,2313
+2018,CA-505,Contra Costa County CoC,Male,3120
+2018,CA-505,Contra Costa County CoC,Non-Singular Gender,*
+2018,CA-505,Contra Costa County CoC,Transgender,*
+2018,CA-505,Contra Costa County CoC,Unknown,*
+2018,CA-506,"Monterey, San Benito Counties CoC",Female,1275
+2018,CA-506,"Monterey, San Benito Counties CoC",Male,1235
+2018,CA-506,"Monterey, San Benito Counties CoC",Non-Singular Gender,*
+2018,CA-506,"Monterey, San Benito Counties CoC",Transgender,*
+2018,CA-507,Marin County CoC,Female,547
+2018,CA-507,Marin County CoC,Male,775
+2018,CA-507,Marin County CoC,Transgender,*
+2018,CA-507,Marin County CoC,Unknown,*
+2018,CA-508,Santa Cruz County CoC,Female,790
+2018,CA-508,Santa Cruz County CoC,Male,1130
+2018,CA-508,Santa Cruz County CoC,Transgender,*
+2018,CA-508,Santa Cruz County CoC,Unknown,43
+2018,CA-509,Mendocino County CoC,Female,213
+2018,CA-509,Mendocino County CoC,Male,366
+2018,CA-509,Mendocino County CoC,Non-Singular Gender,*
+2018,CA-509,Mendocino County CoC,Transgender,*
+2018,CA-509,Mendocino County CoC,Unknown,*
+2018,CA-510,Stanislaus County CoC,Female,2817
+2018,CA-510,Stanislaus County CoC,Male,3321
+2018,CA-510,Stanislaus County CoC,Non-Singular Gender,*
+2018,CA-510,Stanislaus County CoC,Transgender,*
+2018,CA-511,San Joaquin County CoC,Female,5191
+2018,CA-511,San Joaquin County CoC,Male,5639
+2018,CA-511,San Joaquin County CoC,Transgender,*
+2018,CA-512,San Mateo County CoC,Female,1554
+2018,CA-512,San Mateo County CoC,Male,2125
+2018,CA-512,San Mateo County CoC,Non-Singular Gender,*
+2018,CA-512,San Mateo County CoC,Transgender,*
+2018,CA-513,"Kings, Tulare Counties CoC",Female,1419
+2018,CA-513,"Kings, Tulare Counties CoC",Male,1548
+2018,CA-513,"Kings, Tulare Counties CoC",Non-Singular Gender,*
+2018,CA-513,"Kings, Tulare Counties CoC",Transgender,*
+2018,CA-514,"Fresno, Madera Counties CoC",Female,1125
+2018,CA-514,"Fresno, Madera Counties CoC",Male,1335
+2018,CA-514,"Fresno, Madera Counties CoC",Non-Singular Gender,*
+2018,CA-514,"Fresno, Madera Counties CoC",Questioning Gender,*
+2018,CA-514,"Fresno, Madera Counties CoC",Transgender,*
+2018,CA-514,"Fresno, Madera Counties CoC",Unknown,15
+2018,CA-515,Placer County CoC,Female,634
+2018,CA-515,Placer County CoC,Male,836
+2018,CA-515,Placer County CoC,Transgender,*
+2018,CA-515,Placer County CoC,Unknown,*
+2018,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Female,287
+2018,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Male,241
+2018,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Non-Singular Gender,*
+2018,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Unknown,86
+2018,CA-517,Napa County CoC,Female,355
+2018,CA-517,Napa County CoC,Male,575
+2018,CA-517,Napa County CoC,Transgender,*
+2018,CA-518,Solano County CoC,Female,447
+2018,CA-518,Solano County CoC,Male,452
+2018,CA-518,Solano County CoC,Transgender,*
+2018,CA-518,Solano County CoC,Unknown,*
+2018,CA-519,Butte County CoC,Female,547
+2018,CA-519,Butte County CoC,Male,750
+2018,CA-519,Butte County CoC,Non-Singular Gender,*
+2018,CA-519,Butte County CoC,Transgender,*
+2018,CA-520,Merced County CoC,Female,367
+2018,CA-520,Merced County CoC,Male,521
+2018,CA-520,Merced County CoC,Non-Singular Gender,*
+2018,CA-520,Merced County CoC,Transgender,*
+2018,CA-521,Yolo County CoC,Female,459
+2018,CA-521,Yolo County CoC,Male,475
+2018,CA-521,Yolo County CoC,Non-Singular Gender,*
+2018,CA-521,Yolo County CoC,Transgender,*
+2018,CA-521,Yolo County CoC,Unknown,*
+2018,CA-522,Humboldt County CoC,Female,432
+2018,CA-522,Humboldt County CoC,Male,603
+2018,CA-522,Humboldt County CoC,Non-Singular Gender,12
+2018,CA-522,Humboldt County CoC,Questioning Gender,*
+2018,CA-522,Humboldt County CoC,Transgender,*
+2018,CA-522,Humboldt County CoC,Unknown,17
+2018,CA-523,"Colusa, Glenn, Trinity Counties CoC",Female,201
+2018,CA-523,"Colusa, Glenn, Trinity Counties CoC",Male,148
+2018,CA-523,"Colusa, Glenn, Trinity Counties CoC",Unknown,*
+2018,CA-524,"Yuba, Sutter Counties CoC",Female,*
+2018,CA-524,"Yuba, Sutter Counties CoC",Male,*
+2018,CA-525,El Dorado County CoC,Female,128
+2018,CA-525,El Dorado County CoC,Male,114
+2018,CA-525,El Dorado County CoC,Non-Singular Gender,*
+2018,CA-525,El Dorado County CoC,Transgender,*
+2018,CA-525,El Dorado County CoC,Unknown,*
+2018,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Female,236
+2018,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Male,179
+2018,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Transgender,*
+2018,CA-527,Tehama County CoC,Female,171
+2018,CA-527,Tehama County CoC,Male,245
+2018,CA-529,Lake County CoC,Female,46
+2018,CA-529,Lake County CoC,Male,45
+2018,CA-530,"Alpine, Inyo, Mono Counties CoC",Female,126
+2018,CA-530,"Alpine, Inyo, Mono Counties CoC",Male,93
+2018,CA-531,Nevada County CoC,Female,197
+2018,CA-531,Nevada County CoC,Male,346
+2018,CA-531,Nevada County CoC,Non-Singular Gender,*
+2018,CA-531,Nevada County CoC,Transgender,*
+2018,CA-600,Los Angeles County CoC,Female,30759
+2018,CA-600,Los Angeles County CoC,Male,42778
+2018,CA-600,Los Angeles County CoC,Non-Singular Gender,76
+2018,CA-600,Los Angeles County CoC,Questioning Gender,*
+2018,CA-600,Los Angeles County CoC,Transgender,503
+2018,CA-600,Los Angeles County CoC,Unknown,870
+2018,CA-601,San Diego County CoC,Female,5804
+2018,CA-601,San Diego County CoC,Male,9169
+2018,CA-601,San Diego County CoC,Non-Singular Gender,19
+2018,CA-601,San Diego County CoC,Transgender,59
+2018,CA-601,San Diego County CoC,Unknown,141
+2018,CA-602,Orange County CoC,Female,5245
+2018,CA-602,Orange County CoC,Male,6717
+2018,CA-602,Orange County CoC,Non-Singular Gender,*
+2018,CA-602,Orange County CoC,Transgender,21
+2018,CA-602,Orange County CoC,Unknown,32
+2018,CA-603,Santa Barbara County CoC,Female,993
+2018,CA-603,Santa Barbara County CoC,Male,1584
+2018,CA-603,Santa Barbara County CoC,Non-Singular Gender,*
+2018,CA-603,Santa Barbara County CoC,Transgender,*
+2018,CA-603,Santa Barbara County CoC,Unknown,115
+2018,CA-604,Kern County CoC,Female,2111
+2018,CA-604,Kern County CoC,Male,2712
+2018,CA-604,Kern County CoC,Non-Singular Gender,*
+2018,CA-604,Kern County CoC,Transgender,*
+2018,CA-604,Kern County CoC,Unknown,*
+2018,CA-606,Long Beach CoC (Los Angeles County),Female,1124
+2018,CA-606,Long Beach CoC (Los Angeles County),Male,1588
+2018,CA-606,Long Beach CoC (Los Angeles County),Non-Singular Gender,*
+2018,CA-606,Long Beach CoC (Los Angeles County),Transgender,*
+2018,CA-607,Pasadena CoC (Los Angeles County),Female,553
+2018,CA-607,Pasadena CoC (Los Angeles County),Male,776
+2018,CA-607,Pasadena CoC (Los Angeles County),Non-Singular Gender,*
+2018,CA-607,Pasadena CoC (Los Angeles County),Transgender,15
+2018,CA-607,Pasadena CoC (Los Angeles County),Unknown,*
+2018,CA-608,Riverside County CoC,Female,3064
+2018,CA-608,Riverside County CoC,Male,4039
+2018,CA-608,Riverside County CoC,Non-Singular Gender,*
+2018,CA-608,Riverside County CoC,Transgender,25
+2018,CA-608,Riverside County CoC,Unknown,25
+2018,CA-609,San Bernardino County CoC,Female,3842
+2018,CA-609,San Bernardino County CoC,Male,3776
+2018,CA-609,San Bernardino County CoC,Transgender,*
+2018,CA-611,Ventura County CoC,Female,821
+2018,CA-611,Ventura County CoC,Male,912
+2018,CA-611,Ventura County CoC,Non-Singular Gender,*
+2018,CA-611,Ventura County CoC,Transgender,*
+2018,CA-611,Ventura County CoC,Unknown,*
+2018,CA-612,Glendale CoC (Los Angeles County),Female,203
+2018,CA-612,Glendale CoC (Los Angeles County),Male,157
+2018,CA-612,Glendale CoC (Los Angeles County),Transgender,*
+2018,CA-612,Glendale CoC (Los Angeles County),Unknown,*
+2018,CA-613,Imperial County CoC,Female,308
+2018,CA-613,Imperial County CoC,Male,553
+2018,CA-613,Imperial County CoC,Transgender,*
+2018,CA-614,San Luis Obispo County CoC,Female,832
+2018,CA-614,San Luis Obispo County CoC,Male,965
+2018,CA-614,San Luis Obispo County CoC,Non-Singular Gender,*
+2018,CA-614,San Luis Obispo County CoC,Transgender,*
+2019,All,California,Female,100729
+2019,All,California,Male,134451
+2019,All,California,Non-Singular Gender,326
+2019,All,California,Questioning Gender,*
+2019,All,California,Transgender,1070
+2019,All,California,Unknown,1468
+2019,CA-500,Santa Clara County CoC,Female,4587
+2019,CA-500,Santa Clara County CoC,Male,7283
+2019,CA-500,Santa Clara County CoC,Non-Singular Gender,19
+2019,CA-500,Santa Clara County CoC,Transgender,65
+2019,CA-500,Santa Clara County CoC,Unknown,13
+2019,CA-501,San Francisco CoC,Female,3369
+2019,CA-501,San Francisco CoC,Male,4412
+2019,CA-501,San Francisco CoC,Non-Singular Gender,43
+2019,CA-501,San Francisco CoC,Questioning Gender,*
+2019,CA-501,San Francisco CoC,Transgender,98
+2019,CA-501,San Francisco CoC,Unknown,94
+2019,CA-502,Alameda County CoC,Female,3237
+2019,CA-502,Alameda County CoC,Male,4240
+2019,CA-502,Alameda County CoC,Non-Singular Gender,12
+2019,CA-502,Alameda County CoC,Questioning Gender,*
+2019,CA-502,Alameda County CoC,Transgender,36
+2019,CA-502,Alameda County CoC,Unknown,*
+2019,CA-503,Sacramento County CoC,Female,5296
+2019,CA-503,Sacramento County CoC,Male,5528
+2019,CA-503,Sacramento County CoC,Non-Singular Gender,28
+2019,CA-503,Sacramento County CoC,Transgender,43
+2019,CA-503,Sacramento County CoC,Unknown,16
+2019,CA-504,Sonoma County CoC,Female,1675
+2019,CA-504,Sonoma County CoC,Male,2111
+2019,CA-504,Sonoma County CoC,Non-Singular Gender,*
+2019,CA-504,Sonoma County CoC,Transgender,20
+2019,CA-504,Sonoma County CoC,Unknown,12
+2019,CA-505,Contra Costa County CoC,Female,2374
+2019,CA-505,Contra Costa County CoC,Male,3409
+2019,CA-505,Contra Costa County CoC,Non-Singular Gender,*
+2019,CA-505,Contra Costa County CoC,Transgender,*
+2019,CA-505,Contra Costa County CoC,Unknown,14
+2019,CA-506,"Monterey, San Benito Counties CoC",Female,1237
+2019,CA-506,"Monterey, San Benito Counties CoC",Male,1150
+2019,CA-506,"Monterey, San Benito Counties CoC",Non-Singular Gender,*
+2019,CA-506,"Monterey, San Benito Counties CoC",Transgender,*
+2019,CA-507,Marin County CoC,Female,528
+2019,CA-507,Marin County CoC,Male,679
+2019,CA-507,Marin County CoC,Transgender,*
+2019,CA-507,Marin County CoC,Unknown,*
+2019,CA-508,Santa Cruz County CoC,Female,947
+2019,CA-508,Santa Cruz County CoC,Male,1370
+2019,CA-508,Santa Cruz County CoC,Non-Singular Gender,*
+2019,CA-508,Santa Cruz County CoC,Transgender,*
+2019,CA-508,Santa Cruz County CoC,Unknown,47
+2019,CA-509,Mendocino County CoC,Female,315
+2019,CA-509,Mendocino County CoC,Male,391
+2019,CA-509,Mendocino County CoC,Non-Singular Gender,*
+2019,CA-509,Mendocino County CoC,Transgender,*
+2019,CA-509,Mendocino County CoC,Unknown,19
+2019,CA-510,Stanislaus County CoC,Female,2819
+2019,CA-510,Stanislaus County CoC,Male,3402
+2019,CA-510,Stanislaus County CoC,Non-Singular Gender,*
+2019,CA-510,Stanislaus County CoC,Transgender,*
+2019,CA-511,San Joaquin County CoC,Female,5223
+2019,CA-511,San Joaquin County CoC,Male,5789
+2019,CA-511,San Joaquin County CoC,Non-Singular Gender,*
+2019,CA-511,San Joaquin County CoC,Transgender,*
+2019,CA-511,San Joaquin County CoC,Unknown,*
+2019,CA-512,San Mateo County CoC,Female,1550
+2019,CA-512,San Mateo County CoC,Male,2218
+2019,CA-512,San Mateo County CoC,Transgender,*
+2019,CA-513,"Kings, Tulare Counties CoC",Female,1750
+2019,CA-513,"Kings, Tulare Counties CoC",Male,1691
+2019,CA-513,"Kings, Tulare Counties CoC",Non-Singular Gender,*
+2019,CA-513,"Kings, Tulare Counties CoC",Transgender,*
+2019,CA-513,"Kings, Tulare Counties CoC",Unknown,*
+2019,CA-514,"Fresno, Madera Counties CoC",Female,1239
+2019,CA-514,"Fresno, Madera Counties CoC",Male,1456
+2019,CA-514,"Fresno, Madera Counties CoC",Non-Singular Gender,*
+2019,CA-514,"Fresno, Madera Counties CoC",Questioning Gender,*
+2019,CA-514,"Fresno, Madera Counties CoC",Transgender,16
+2019,CA-514,"Fresno, Madera Counties CoC",Unknown,*
+2019,CA-515,Placer County CoC,Female,744
+2019,CA-515,Placer County CoC,Male,919
+2019,CA-515,Placer County CoC,Non-Singular Gender,*
+2019,CA-515,Placer County CoC,Transgender,*
+2019,CA-515,Placer County CoC,Unknown,13
+2019,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Female,364
+2019,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Male,324
+2019,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Unknown,163
+2019,CA-517,Napa County CoC,Female,372
+2019,CA-517,Napa County CoC,Male,552
+2019,CA-517,Napa County CoC,Non-Singular Gender,*
+2019,CA-517,Napa County CoC,Transgender,*
+2019,CA-518,Solano County CoC,Female,570
+2019,CA-518,Solano County CoC,Male,583
+2019,CA-518,Solano County CoC,Transgender,*
+2019,CA-518,Solano County CoC,Unknown,*
+2019,CA-519,Butte County CoC,Female,576
+2019,CA-519,Butte County CoC,Male,834
+2019,CA-519,Butte County CoC,Non-Singular Gender,*
+2019,CA-519,Butte County CoC,Transgender,*
+2019,CA-520,Merced County CoC,Female,1594
+2019,CA-520,Merced County CoC,Male,1496
+2019,CA-520,Merced County CoC,Non-Singular Gender,*
+2019,CA-520,Merced County CoC,Transgender,*
+2019,CA-521,Yolo County CoC,Female,584
+2019,CA-521,Yolo County CoC,Male,595
+2019,CA-521,Yolo County CoC,Non-Singular Gender,*
+2019,CA-521,Yolo County CoC,Transgender,*
+2019,CA-521,Yolo County CoC,Unknown,*
+2019,CA-522,Humboldt County CoC,Female,544
+2019,CA-522,Humboldt County CoC,Male,899
+2019,CA-522,Humboldt County CoC,Non-Singular Gender,*
+2019,CA-522,Humboldt County CoC,Questioning Gender,*
+2019,CA-522,Humboldt County CoC,Transgender,12
+2019,CA-522,Humboldt County CoC,Unknown,152
+2019,CA-523,"Colusa, Glenn, Trinity Counties CoC",Female,217
+2019,CA-523,"Colusa, Glenn, Trinity Counties CoC",Male,167
+2019,CA-523,"Colusa, Glenn, Trinity Counties CoC",Unknown,*
+2019,CA-524,"Yuba, Sutter Counties CoC",Female,19
+2019,CA-524,"Yuba, Sutter Counties CoC",Male,15
+2019,CA-525,El Dorado County CoC,Female,103
+2019,CA-525,El Dorado County CoC,Male,113
+2019,CA-525,El Dorado County CoC,Non-Singular Gender,*
+2019,CA-525,El Dorado County CoC,Transgender,*
+2019,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Female,216
+2019,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Male,173
+2019,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Transgender,*
+2019,CA-527,Tehama County CoC,Female,140
+2019,CA-527,Tehama County CoC,Male,234
+2019,CA-527,Tehama County CoC,Unknown,*
+2019,CA-529,Lake County CoC,Female,136
+2019,CA-529,Lake County CoC,Male,113
+2019,CA-529,Lake County CoC,Transgender,*
+2019,CA-530,"Alpine, Inyo, Mono Counties CoC",Female,80
+2019,CA-530,"Alpine, Inyo, Mono Counties CoC",Male,74
+2019,CA-531,Nevada County CoC,Female,217
+2019,CA-531,Nevada County CoC,Male,392
+2019,CA-531,Nevada County CoC,Non-Singular Gender,*
+2019,CA-531,Nevada County CoC,Transgender,*
+2019,CA-531,Nevada County CoC,Unknown,*
+2019,CA-600,Los Angeles County CoC,Female,34411
+2019,CA-600,Los Angeles County CoC,Male,50097
+2019,CA-600,Los Angeles County CoC,Non-Singular Gender,107
+2019,CA-600,Los Angeles County CoC,Transgender,540
+2019,CA-600,Los Angeles County CoC,Unknown,692
+2019,CA-601,San Diego County CoC,Female,5901
+2019,CA-601,San Diego County CoC,Male,10016
+2019,CA-601,San Diego County CoC,Non-Singular Gender,26
+2019,CA-601,San Diego County CoC,Transgender,66
+2019,CA-601,San Diego County CoC,Unknown,142
+2019,CA-602,Orange County CoC,Female,5186
+2019,CA-602,Orange County CoC,Male,7148
+2019,CA-602,Orange County CoC,Non-Singular Gender,*
+2019,CA-602,Orange County CoC,Transgender,33
+2019,CA-602,Orange County CoC,Unknown,14
+2019,CA-603,Santa Barbara County CoC,Female,1095
+2019,CA-603,Santa Barbara County CoC,Male,1693
+2019,CA-603,Santa Barbara County CoC,Non-Singular Gender,*
+2019,CA-603,Santa Barbara County CoC,Transgender,*
+2019,CA-603,Santa Barbara County CoC,Unknown,*
+2019,CA-604,Kern County CoC,Female,2344
+2019,CA-604,Kern County CoC,Male,2773
+2019,CA-604,Kern County CoC,Non-Singular Gender,*
+2019,CA-604,Kern County CoC,Transgender,*
+2019,CA-606,Long Beach CoC (Los Angeles County),Female,1261
+2019,CA-606,Long Beach CoC (Los Angeles County),Male,1961
+2019,CA-606,Long Beach CoC (Los Angeles County),Non-Singular Gender,*
+2019,CA-606,Long Beach CoC (Los Angeles County),Transgender,*
+2019,CA-606,Long Beach CoC (Los Angeles County),Unknown,*
+2019,CA-607,Pasadena CoC (Los Angeles County),Female,423
+2019,CA-607,Pasadena CoC (Los Angeles County),Male,650
+2019,CA-607,Pasadena CoC (Los Angeles County),Transgender,13
+2019,CA-607,Pasadena CoC (Los Angeles County),Unknown,*
+2019,CA-608,Riverside County CoC,Female,3560
+2019,CA-608,Riverside County CoC,Male,4398
+2019,CA-608,Riverside County CoC,Non-Singular Gender,*
+2019,CA-608,Riverside County CoC,Transgender,23
+2019,CA-608,Riverside County CoC,Unknown,*
+2019,CA-609,San Bernardino County CoC,Female,4032
+2019,CA-609,San Bernardino County CoC,Male,3994
+2019,CA-609,San Bernardino County CoC,Non-Singular Gender,*
+2019,CA-609,San Bernardino County CoC,Questioning Gender,*
+2019,CA-609,San Bernardino County CoC,Transgender,*
+2019,CA-611,Ventura County CoC,Female,950
+2019,CA-611,Ventura County CoC,Male,1089
+2019,CA-611,Ventura County CoC,Non-Singular Gender,*
+2019,CA-611,Ventura County CoC,Transgender,*
+2019,CA-611,Ventura County CoC,Unknown,*
+2019,CA-612,Glendale CoC (Los Angeles County),Female,245
+2019,CA-612,Glendale CoC (Los Angeles County),Male,188
+2019,CA-612,Glendale CoC (Los Angeles County),Non-Singular Gender,*
+2019,CA-612,Glendale CoC (Los Angeles County),Transgender,*
+2019,CA-613,Imperial County CoC,Female,280
+2019,CA-613,Imperial County CoC,Male,547
+2019,CA-613,Imperial County CoC,Unknown,*
+2019,CA-614,San Luis Obispo County CoC,Female,887
+2019,CA-614,San Luis Obispo County CoC,Male,1148
+2019,CA-614,San Luis Obispo County CoC,Non-Singular Gender,*
+2019,CA-614,San Luis Obispo County CoC,Transgender,*
+2019,CA-614,San Luis Obispo County CoC,Unknown,*
+2020,All,California,Female,105135
+2020,All,California,Male,145319
+2020,All,California,Non-Singular Gender,422
+2020,All,California,Questioning Gender,*
+2020,All,California,Transgender,1231
+2020,All,California,Unknown,2084
+2020,CA-500,Santa Clara County CoC,Female,5297
+2020,CA-500,Santa Clara County CoC,Male,8021
+2020,CA-500,Santa Clara County CoC,Non-Singular Gender,30
+2020,CA-500,Santa Clara County CoC,Transgender,57
+2020,CA-500,Santa Clara County CoC,Unknown,49
+2020,CA-501,San Francisco CoC,Female,4397
+2020,CA-501,San Francisco CoC,Male,6818
+2020,CA-501,San Francisco CoC,Non-Singular Gender,66
+2020,CA-501,San Francisco CoC,Transgender,154
+2020,CA-501,San Francisco CoC,Unknown,119
+2020,CA-502,Alameda County CoC,Female,3657
+2020,CA-502,Alameda County CoC,Male,5389
+2020,CA-502,Alameda County CoC,Non-Singular Gender,21
+2020,CA-502,Alameda County CoC,Questioning Gender,*
+2020,CA-502,Alameda County CoC,Transgender,37
+2020,CA-502,Alameda County CoC,Unknown,*
+2020,CA-503,Sacramento County CoC,Female,4551
+2020,CA-503,Sacramento County CoC,Male,5191
+2020,CA-503,Sacramento County CoC,Non-Singular Gender,34
+2020,CA-503,Sacramento County CoC,Questioning Gender,*
+2020,CA-503,Sacramento County CoC,Transgender,49
+2020,CA-503,Sacramento County CoC,Unknown,78
+2020,CA-504,Sonoma County CoC,Female,1576
+2020,CA-504,Sonoma County CoC,Male,2207
+2020,CA-504,Sonoma County CoC,Non-Singular Gender,*
+2020,CA-504,Sonoma County CoC,Questioning Gender,*
+2020,CA-504,Sonoma County CoC,Transgender,18
+2020,CA-504,Sonoma County CoC,Unknown,18
+2020,CA-505,Contra Costa County CoC,Female,2609
+2020,CA-505,Contra Costa County CoC,Male,3480
+2020,CA-505,Contra Costa County CoC,Non-Singular Gender,*
+2020,CA-505,Contra Costa County CoC,Transgender,15
+2020,CA-505,Contra Costa County CoC,Unknown,26
+2020,CA-506,"Monterey, San Benito Counties CoC",Female,1051
+2020,CA-506,"Monterey, San Benito Counties CoC",Male,1053
+2020,CA-506,"Monterey, San Benito Counties CoC",Non-Singular Gender,*
+2020,CA-506,"Monterey, San Benito Counties CoC",Transgender,*
+2020,CA-506,"Monterey, San Benito Counties CoC",Unknown,*
+2020,CA-507,Marin County CoC,Female,488
+2020,CA-507,Marin County CoC,Male,628
+2020,CA-507,Marin County CoC,Non-Singular Gender,*
+2020,CA-507,Marin County CoC,Transgender,*
+2020,CA-508,Santa Cruz County CoC,Female,1040
+2020,CA-508,Santa Cruz County CoC,Male,1481
+2020,CA-508,Santa Cruz County CoC,Non-Singular Gender,*
+2020,CA-508,Santa Cruz County CoC,Transgender,*
+2020,CA-508,Santa Cruz County CoC,Unknown,16
+2020,CA-509,Mendocino County CoC,Female,451
+2020,CA-509,Mendocino County CoC,Male,514
+2020,CA-509,Mendocino County CoC,Non-Singular Gender,*
+2020,CA-509,Mendocino County CoC,Transgender,*
+2020,CA-509,Mendocino County CoC,Unknown,*
+2020,CA-510,Stanislaus County CoC,Female,2199
+2020,CA-510,Stanislaus County CoC,Male,2608
+2020,CA-510,Stanislaus County CoC,Non-Singular Gender,*
+2020,CA-510,Stanislaus County CoC,Transgender,*
+2020,CA-511,San Joaquin County CoC,Female,3539
+2020,CA-511,San Joaquin County CoC,Male,4164
+2020,CA-511,San Joaquin County CoC,Non-Singular Gender,*
+2020,CA-511,San Joaquin County CoC,Transgender,*
+2020,CA-511,San Joaquin County CoC,Unknown,*
+2020,CA-512,San Mateo County CoC,Female,1447
+2020,CA-512,San Mateo County CoC,Male,2106
+2020,CA-512,San Mateo County CoC,Non-Singular Gender,*
+2020,CA-512,San Mateo County CoC,Transgender,12
+2020,CA-513,"Kings, Tulare Counties CoC",Female,1668
+2020,CA-513,"Kings, Tulare Counties CoC",Male,1612
+2020,CA-513,"Kings, Tulare Counties CoC",Non-Singular Gender,*
+2020,CA-514,"Fresno, Madera Counties CoC",Female,1868
+2020,CA-514,"Fresno, Madera Counties CoC",Male,2382
+2020,CA-514,"Fresno, Madera Counties CoC",Non-Singular Gender,*
+2020,CA-514,"Fresno, Madera Counties CoC",Questioning Gender,*
+2020,CA-514,"Fresno, Madera Counties CoC",Transgender,18
+2020,CA-514,"Fresno, Madera Counties CoC",Unknown,*
+2020,CA-515,Placer County CoC,Female,757
+2020,CA-515,Placer County CoC,Male,955
+2020,CA-515,Placer County CoC,Non-Singular Gender,*
+2020,CA-515,Placer County CoC,Transgender,*
+2020,CA-515,Placer County CoC,Unknown,14
+2020,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Female,621
+2020,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Male,653
+2020,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Non-Singular Gender,*
+2020,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Transgender,*
+2020,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Unknown,185
+2020,CA-517,Napa County CoC,Female,511
+2020,CA-517,Napa County CoC,Male,853
+2020,CA-517,Napa County CoC,Non-Singular Gender,*
+2020,CA-517,Napa County CoC,Transgender,*
+2020,CA-517,Napa County CoC,Unknown,*
+2020,CA-518,Solano County CoC,Female,602
+2020,CA-518,Solano County CoC,Male,809
+2020,CA-518,Solano County CoC,Questioning Gender,*
+2020,CA-518,Solano County CoC,Transgender,*
+2020,CA-518,Solano County CoC,Unknown,*
+2020,CA-519,Butte County CoC,Female,719
+2020,CA-519,Butte County CoC,Male,928
+2020,CA-519,Butte County CoC,Non-Singular Gender,*
+2020,CA-519,Butte County CoC,Transgender,*
+2020,CA-519,Butte County CoC,Unknown,*
+2020,CA-520,Merced County CoC,Female,2050
+2020,CA-520,Merced County CoC,Male,1741
+2020,CA-520,Merced County CoC,Transgender,*
+2020,CA-521,Yolo County CoC,Female,706
+2020,CA-521,Yolo County CoC,Male,860
+2020,CA-521,Yolo County CoC,Non-Singular Gender,*
+2020,CA-521,Yolo County CoC,Transgender,*
+2020,CA-521,Yolo County CoC,Unknown,*
+2020,CA-522,Humboldt County CoC,Female,554
+2020,CA-522,Humboldt County CoC,Male,988
+2020,CA-522,Humboldt County CoC,Non-Singular Gender,*
+2020,CA-522,Humboldt County CoC,Transgender,*
+2020,CA-522,Humboldt County CoC,Unknown,186
+2020,CA-523,"Colusa, Glenn, Trinity Counties CoC",Female,286
+2020,CA-523,"Colusa, Glenn, Trinity Counties CoC",Male,226
+2020,CA-523,"Colusa, Glenn, Trinity Counties CoC",Transgender,*
+2020,CA-523,"Colusa, Glenn, Trinity Counties CoC",Unknown,*
+2020,CA-524,"Yuba, Sutter Counties CoC",Female,402
+2020,CA-524,"Yuba, Sutter Counties CoC",Male,316
+2020,CA-524,"Yuba, Sutter Counties CoC",Transgender,*
+2020,CA-525,El Dorado County CoC,Female,121
+2020,CA-525,El Dorado County CoC,Male,151
+2020,CA-525,El Dorado County CoC,Non-Singular Gender,*
+2020,CA-525,El Dorado County CoC,Transgender,*
+2020,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Female,184
+2020,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Male,147
+2020,CA-527,Tehama County CoC,Female,178
+2020,CA-527,Tehama County CoC,Male,268
+2020,CA-529,Lake County CoC,Female,101
+2020,CA-529,Lake County CoC,Male,116
+2020,CA-529,Lake County CoC,Transgender,*
+2020,CA-530,"Alpine, Inyo, Mono Counties CoC",Female,98
+2020,CA-530,"Alpine, Inyo, Mono Counties CoC",Male,122
+2020,CA-530,"Alpine, Inyo, Mono Counties CoC",Unknown,*
+2020,CA-531,Nevada County CoC,Female,183
+2020,CA-531,Nevada County CoC,Male,359
+2020,CA-531,Nevada County CoC,Non-Singular Gender,*
+2020,CA-531,Nevada County CoC,Transgender,*
+2020,CA-531,Nevada County CoC,Unknown,*
+2020,CA-600,Los Angeles County CoC,Female,33723
+2020,CA-600,Los Angeles County CoC,Male,52594
+2020,CA-600,Los Angeles County CoC,Non-Singular Gender,138
+2020,CA-600,Los Angeles County CoC,Transgender,628
+2020,CA-600,Los Angeles County CoC,Unknown,971
+2020,CA-601,San Diego County CoC,Female,7641
+2020,CA-601,San Diego County CoC,Male,12405
+2020,CA-601,San Diego County CoC,Non-Singular Gender,42
+2020,CA-601,San Diego County CoC,Questioning Gender,*
+2020,CA-601,San Diego County CoC,Transgender,83
+2020,CA-601,San Diego County CoC,Unknown,309
+2020,CA-602,Orange County CoC,Female,5383
+2020,CA-602,Orange County CoC,Male,6840
+2020,CA-602,Orange County CoC,Non-Singular Gender,12
+2020,CA-602,Orange County CoC,Questioning Gender,*
+2020,CA-602,Orange County CoC,Transgender,29
+2020,CA-602,Orange County CoC,Unknown,27
+2020,CA-603,Santa Barbara County CoC,Female,1149
+2020,CA-603,Santa Barbara County CoC,Male,1745
+2020,CA-603,Santa Barbara County CoC,Non-Singular Gender,*
+2020,CA-603,Santa Barbara County CoC,Transgender,*
+2020,CA-603,Santa Barbara County CoC,Unknown,14
+2020,CA-604,Kern County CoC,Female,2834
+2020,CA-604,Kern County CoC,Male,2870
+2020,CA-604,Kern County CoC,Transgender,*
+2020,CA-606,Long Beach CoC (Los Angeles County),Female,1446
+2020,CA-606,Long Beach CoC (Los Angeles County),Male,2083
+2020,CA-606,Long Beach CoC (Los Angeles County),Non-Singular Gender,*
+2020,CA-606,Long Beach CoC (Los Angeles County),Transgender,12
+2020,CA-606,Long Beach CoC (Los Angeles County),Unknown,15
+2020,CA-607,Pasadena CoC (Los Angeles County),Female,382
+2020,CA-607,Pasadena CoC (Los Angeles County),Male,530
+2020,CA-607,Pasadena CoC (Los Angeles County),Transgender,*
+2020,CA-607,Pasadena CoC (Los Angeles County),Unknown,*
+2020,CA-608,Riverside County CoC,Female,4047
+2020,CA-608,Riverside County CoC,Male,5043
+2020,CA-608,Riverside County CoC,Non-Singular Gender,*
+2020,CA-608,Riverside County CoC,Transgender,25
+2020,CA-608,Riverside County CoC,Unknown,*
+2020,CA-609,San Bernardino County CoC,Female,4612
+2020,CA-609,San Bernardino County CoC,Male,4705
+2020,CA-609,San Bernardino County CoC,Non-Singular Gender,*
+2020,CA-609,San Bernardino County CoC,Transgender,*
+2020,CA-609,San Bernardino County CoC,Unknown,*
+2020,CA-611,Ventura County CoC,Female,987
+2020,CA-611,Ventura County CoC,Male,1236
+2020,CA-611,Ventura County CoC,Non-Singular Gender,*
+2020,CA-611,Ventura County CoC,Transgender,*
+2020,CA-611,Ventura County CoC,Unknown,*
+2020,CA-612,Glendale CoC (Los Angeles County),Female,245
+2020,CA-612,Glendale CoC (Los Angeles County),Male,243
+2020,CA-612,Glendale CoC (Los Angeles County),Non-Singular Gender,*
+2020,CA-612,Glendale CoC (Los Angeles County),Transgender,*
+2020,CA-613,Imperial County CoC,Female,413
+2020,CA-613,Imperial County CoC,Male,588
+2020,CA-613,Imperial County CoC,Non-Singular Gender,*
+2020,CA-613,Imperial County CoC,Unknown,*
+2020,CA-614,San Luis Obispo County CoC,Female,752
+2020,CA-614,San Luis Obispo County CoC,Male,940
+2020,CA-614,San Luis Obispo County CoC,Transgender,*
+2020,CA-614,San Luis Obispo County CoC,Unknown,*
+2021,All,California,Female,112966
+2021,All,California,Male,153599
+2021,All,California,Non-Singular Gender,620
+2021,All,California,Questioning Gender,20
+2021,All,California,Transgender,1333
+2021,All,California,Unknown,3618
+2021,CA-500,Santa Clara County CoC,Female,6080
+2021,CA-500,Santa Clara County CoC,Male,8643
+2021,CA-500,Santa Clara County CoC,Non-Singular Gender,38
+2021,CA-500,Santa Clara County CoC,Transgender,68
+2021,CA-500,Santa Clara County CoC,Unknown,67
+2021,CA-501,San Francisco CoC,Female,5291
+2021,CA-501,San Francisco CoC,Male,8235
+2021,CA-501,San Francisco CoC,Non-Singular Gender,92
+2021,CA-501,San Francisco CoC,Questioning Gender,*
+2021,CA-501,San Francisco CoC,Transgender,163
+2021,CA-501,San Francisco CoC,Unknown,123
+2021,CA-502,Alameda County CoC,Female,4186
+2021,CA-502,Alameda County CoC,Male,5762
+2021,CA-502,Alameda County CoC,Non-Singular Gender,30
+2021,CA-502,Alameda County CoC,Questioning Gender,*
+2021,CA-502,Alameda County CoC,Transgender,28
+2021,CA-502,Alameda County CoC,Unknown,72
+2021,CA-503,Sacramento County CoC,Female,4878
+2021,CA-503,Sacramento County CoC,Male,5259
+2021,CA-503,Sacramento County CoC,Non-Singular Gender,53
+2021,CA-503,Sacramento County CoC,Questioning Gender,*
+2021,CA-503,Sacramento County CoC,Transgender,53
+2021,CA-503,Sacramento County CoC,Unknown,256
+2021,CA-504,Sonoma County CoC,Female,1615
+2021,CA-504,Sonoma County CoC,Male,2167
+2021,CA-504,Sonoma County CoC,Non-Singular Gender,17
+2021,CA-504,Sonoma County CoC,Transgender,22
+2021,CA-504,Sonoma County CoC,Unknown,*
+2021,CA-505,Contra Costa County CoC,Female,3052
+2021,CA-505,Contra Costa County CoC,Male,3883
+2021,CA-505,Contra Costa County CoC,Non-Singular Gender,*
+2021,CA-505,Contra Costa County CoC,Transgender,12
+2021,CA-505,Contra Costa County CoC,Unknown,20
+2021,CA-506,"Monterey, San Benito Counties CoC",Female,1080
+2021,CA-506,"Monterey, San Benito Counties CoC",Male,1236
+2021,CA-506,"Monterey, San Benito Counties CoC",Non-Singular Gender,*
+2021,CA-506,"Monterey, San Benito Counties CoC",Transgender,*
+2021,CA-506,"Monterey, San Benito Counties CoC",Unknown,*
+2021,CA-507,Marin County CoC,Female,720
+2021,CA-507,Marin County CoC,Male,939
+2021,CA-507,Marin County CoC,Non-Singular Gender,*
+2021,CA-507,Marin County CoC,Transgender,*
+2021,CA-507,Marin County CoC,Unknown,98
+2021,CA-508,Santa Cruz County CoC,Female,1059
+2021,CA-508,Santa Cruz County CoC,Male,1474
+2021,CA-508,Santa Cruz County CoC,Non-Singular Gender,*
+2021,CA-508,Santa Cruz County CoC,Transgender,*
+2021,CA-508,Santa Cruz County CoC,Unknown,*
+2021,CA-509,Mendocino County CoC,Female,606
+2021,CA-509,Mendocino County CoC,Male,686
+2021,CA-509,Mendocino County CoC,Non-Singular Gender,*
+2021,CA-509,Mendocino County CoC,Transgender,*
+2021,CA-509,Mendocino County CoC,Unknown,*
+2021,CA-510,Stanislaus County CoC,Female,2087
+2021,CA-510,Stanislaus County CoC,Male,2808
+2021,CA-510,Stanislaus County CoC,Non-Singular Gender,*
+2021,CA-510,Stanislaus County CoC,Questioning Gender,*
+2021,CA-510,Stanislaus County CoC,Transgender,13
+2021,CA-510,Stanislaus County CoC,Unknown,*
+2021,CA-511,San Joaquin County CoC,Female,3130
+2021,CA-511,San Joaquin County CoC,Male,3572
+2021,CA-511,San Joaquin County CoC,Non-Singular Gender,*
+2021,CA-511,San Joaquin County CoC,Questioning Gender,*
+2021,CA-511,San Joaquin County CoC,Transgender,*
+2021,CA-511,San Joaquin County CoC,Unknown,40
+2021,CA-512,San Mateo County CoC,Female,1473
+2021,CA-512,San Mateo County CoC,Male,2174
+2021,CA-512,San Mateo County CoC,Non-Singular Gender,*
+2021,CA-512,San Mateo County CoC,Transgender,*
+2021,CA-512,San Mateo County CoC,Unknown,*
+2021,CA-513,"Kings, Tulare Counties CoC",Female,1757
+2021,CA-513,"Kings, Tulare Counties CoC",Male,1674
+2021,CA-513,"Kings, Tulare Counties CoC",Non-Singular Gender,*
+2021,CA-513,"Kings, Tulare Counties CoC",Transgender,*
+2021,CA-513,"Kings, Tulare Counties CoC",Unknown,*
+2021,CA-514,"Fresno, Madera Counties CoC",Female,2671
+2021,CA-514,"Fresno, Madera Counties CoC",Male,3494
+2021,CA-514,"Fresno, Madera Counties CoC",Non-Singular Gender,*
+2021,CA-514,"Fresno, Madera Counties CoC",Questioning Gender,*
+2021,CA-514,"Fresno, Madera Counties CoC",Transgender,33
+2021,CA-514,"Fresno, Madera Counties CoC",Unknown,26
+2021,CA-515,Placer County CoC,Female,909
+2021,CA-515,Placer County CoC,Male,1101
+2021,CA-515,Placer County CoC,Non-Singular Gender,*
+2021,CA-515,Placer County CoC,Transgender,*
+2021,CA-515,Placer County CoC,Unknown,*
+2021,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Female,861
+2021,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Male,888
+2021,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Non-Singular Gender,*
+2021,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Transgender,*
+2021,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Unknown,43
+2021,CA-517,Napa County CoC,Female,308
+2021,CA-517,Napa County CoC,Male,439
+2021,CA-517,Napa County CoC,Non-Singular Gender,*
+2021,CA-517,Napa County CoC,Transgender,*
+2021,CA-517,Napa County CoC,Unknown,*
+2021,CA-518,Solano County CoC,Female,644
+2021,CA-518,Solano County CoC,Male,920
+2021,CA-518,Solano County CoC,Non-Singular Gender,*
+2021,CA-518,Solano County CoC,Questioning Gender,*
+2021,CA-518,Solano County CoC,Transgender,*
+2021,CA-518,Solano County CoC,Unknown,*
+2021,CA-519,Butte County CoC,Female,891
+2021,CA-519,Butte County CoC,Male,1066
+2021,CA-519,Butte County CoC,Non-Singular Gender,*
+2021,CA-519,Butte County CoC,Transgender,*
+2021,CA-519,Butte County CoC,Unknown,*
+2021,CA-520,Merced County CoC,Female,2396
+2021,CA-520,Merced County CoC,Male,2236
+2021,CA-520,Merced County CoC,Non-Singular Gender,*
+2021,CA-520,Merced County CoC,Transgender,*
+2021,CA-520,Merced County CoC,Unknown,*
+2021,CA-521,Yolo County CoC,Female,688
+2021,CA-521,Yolo County CoC,Male,784
+2021,CA-521,Yolo County CoC,Non-Singular Gender,*
+2021,CA-521,Yolo County CoC,Transgender,*
+2021,CA-521,Yolo County CoC,Unknown,*
+2021,CA-522,Humboldt County CoC,Female,597
+2021,CA-522,Humboldt County CoC,Male,957
+2021,CA-522,Humboldt County CoC,Non-Singular Gender,18
+2021,CA-522,Humboldt County CoC,Questioning Gender,*
+2021,CA-522,Humboldt County CoC,Transgender,*
+2021,CA-522,Humboldt County CoC,Unknown,112
+2021,CA-523,"Colusa, Glenn, Trinity Counties CoC",Female,370
+2021,CA-523,"Colusa, Glenn, Trinity Counties CoC",Male,306
+2021,CA-523,"Colusa, Glenn, Trinity Counties CoC",Unknown,*
+2021,CA-524,"Yuba, Sutter Counties CoC",Female,1138
+2021,CA-524,"Yuba, Sutter Counties CoC",Male,1027
+2021,CA-524,"Yuba, Sutter Counties CoC",Non-Singular Gender,*
+2021,CA-524,"Yuba, Sutter Counties CoC",Transgender,*
+2021,CA-525,El Dorado County CoC,Female,150
+2021,CA-525,El Dorado County CoC,Male,180
+2021,CA-525,El Dorado County CoC,Non-Singular Gender,*
+2021,CA-525,El Dorado County CoC,Transgender,*
+2021,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Female,206
+2021,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Male,167
+2021,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Transgender,*
+2021,CA-527,Tehama County CoC,Female,136
+2021,CA-527,Tehama County CoC,Male,146
+2021,CA-529,Lake County CoC,Female,167
+2021,CA-529,Lake County CoC,Male,235
+2021,CA-529,Lake County CoC,Transgender,*
+2021,CA-530,"Alpine, Inyo, Mono Counties CoC",Female,110
+2021,CA-530,"Alpine, Inyo, Mono Counties CoC",Male,117
+2021,CA-531,Nevada County CoC,Female,293
+2021,CA-531,Nevada County CoC,Male,395
+2021,CA-531,Nevada County CoC,Non-Singular Gender,*
+2021,CA-531,Nevada County CoC,Transgender,*
+2021,CA-531,Nevada County CoC,Unknown,30
+2021,CA-600,Los Angeles County CoC,Female,32614
+2021,CA-600,Los Angeles County CoC,Male,51298
+2021,CA-600,Los Angeles County CoC,Non-Singular Gender,169
+2021,CA-600,Los Angeles County CoC,Questioning Gender,*
+2021,CA-600,Los Angeles County CoC,Transgender,597
+2021,CA-600,Los Angeles County CoC,Unknown,1088
+2021,CA-601,San Diego County CoC,Female,8983
+2021,CA-601,San Diego County CoC,Male,13456
+2021,CA-601,San Diego County CoC,Non-Singular Gender,51
+2021,CA-601,San Diego County CoC,Questioning Gender,*
+2021,CA-601,San Diego County CoC,Transgender,97
+2021,CA-601,San Diego County CoC,Unknown,112
+2021,CA-602,Orange County CoC,Female,6515
+2021,CA-602,Orange County CoC,Male,8731
+2021,CA-602,Orange County CoC,Non-Singular Gender,42
+2021,CA-602,Orange County CoC,Questioning Gender,*
+2021,CA-602,Orange County CoC,Transgender,45
+2021,CA-602,Orange County CoC,Unknown,1359
+2021,CA-603,Santa Barbara County CoC,Female,1375
+2021,CA-603,Santa Barbara County CoC,Male,1915
+2021,CA-603,Santa Barbara County CoC,Non-Singular Gender,13
+2021,CA-603,Santa Barbara County CoC,Questioning Gender,*
+2021,CA-603,Santa Barbara County CoC,Transgender,14
+2021,CA-603,Santa Barbara County CoC,Unknown,*
+2021,CA-604,Kern County CoC,Female,3818
+2021,CA-604,Kern County CoC,Male,3991
+2021,CA-604,Kern County CoC,Non-Singular Gender,*
+2021,CA-604,Kern County CoC,Transgender,20
+2021,CA-606,Long Beach CoC (Los Angeles County),Female,1434
+2021,CA-606,Long Beach CoC (Los Angeles County),Male,2213
+2021,CA-606,Long Beach CoC (Los Angeles County),Non-Singular Gender,*
+2021,CA-606,Long Beach CoC (Los Angeles County),Transgender,13
+2021,CA-606,Long Beach CoC (Los Angeles County),Unknown,49
+2021,CA-607,Pasadena CoC (Los Angeles County),Female,306
+2021,CA-607,Pasadena CoC (Los Angeles County),Male,402
+2021,CA-607,Pasadena CoC (Los Angeles County),Transgender,*
+2021,CA-607,Pasadena CoC (Los Angeles County),Unknown,21
+2021,CA-608,Riverside County CoC,Female,3892
+2021,CA-608,Riverside County CoC,Male,4343
+2021,CA-608,Riverside County CoC,Non-Singular Gender,14
+2021,CA-608,Riverside County CoC,Transgender,38
+2021,CA-608,Riverside County CoC,Unknown,12
+2021,CA-609,San Bernardino County CoC,Female,4291
+2021,CA-609,San Bernardino County CoC,Male,4490
+2021,CA-609,San Bernardino County CoC,Non-Singular Gender,*
+2021,CA-609,San Bernardino County CoC,Questioning Gender,*
+2021,CA-609,San Bernardino County CoC,Transgender,14
+2021,CA-609,San Bernardino County CoC,Unknown,*
+2021,CA-611,Ventura County CoC,Female,956
+2021,CA-611,Ventura County CoC,Male,1338
+2021,CA-611,Ventura County CoC,Non-Singular Gender,*
+2021,CA-611,Ventura County CoC,Transgender,13
+2021,CA-611,Ventura County CoC,Unknown,*
+2021,CA-612,Glendale CoC (Los Angeles County),Female,235
+2021,CA-612,Glendale CoC (Los Angeles County),Male,287
+2021,CA-612,Glendale CoC (Los Angeles County),Non-Singular Gender,*
+2021,CA-612,Glendale CoC (Los Angeles County),Transgender,*
+2021,CA-613,Imperial County CoC,Female,786
+2021,CA-613,Imperial County CoC,Male,870
+2021,CA-613,Imperial County CoC,Transgender,*
+2021,CA-613,Imperial County CoC,Unknown,12
+2021,CA-614,San Luis Obispo County CoC,Female,1019
+2021,CA-614,San Luis Obispo County CoC,Male,1319
+2021,CA-614,San Luis Obispo County CoC,Non-Singular Gender,*
+2021,CA-614,San Luis Obispo County CoC,Transgender,*
+2021,CA-614,San Luis Obispo County CoC,Unknown,*
+2022,All,California,Female,133740
+2022,All,California,Male,175357
+2022,All,California,Non-Singular Gender,841
+2022,All,California,Questioning Gender,53
+2022,All,California,Transgender,1543
+2022,All,California,Unknown,5406
+2022,CA-500,Santa Clara County CoC,Female,6995
+2022,CA-500,Santa Clara County CoC,Male,9577
+2022,CA-500,Santa Clara County CoC,Non-Singular Gender,43
+2022,CA-500,Santa Clara County CoC,Transgender,59
+2022,CA-500,Santa Clara County CoC,Unknown,73
+2022,CA-501,San Francisco CoC,Female,6835
+2022,CA-501,San Francisco CoC,Male,10873
+2022,CA-501,San Francisco CoC,Non-Singular Gender,144
+2022,CA-501,San Francisco CoC,Questioning Gender,*
+2022,CA-501,San Francisco CoC,Transgender,216
+2022,CA-501,San Francisco CoC,Unknown,156
+2022,CA-502,Alameda County CoC,Female,4884
+2022,CA-502,Alameda County CoC,Male,6807
+2022,CA-502,Alameda County CoC,Non-Singular Gender,44
+2022,CA-502,Alameda County CoC,Questioning Gender,*
+2022,CA-502,Alameda County CoC,Transgender,30
+2022,CA-502,Alameda County CoC,Unknown,15
+2022,CA-503,Sacramento County CoC,Female,5622
+2022,CA-503,Sacramento County CoC,Male,5747
+2022,CA-503,Sacramento County CoC,Non-Singular Gender,72
+2022,CA-503,Sacramento County CoC,Questioning Gender,*
+2022,CA-503,Sacramento County CoC,Transgender,51
+2022,CA-503,Sacramento County CoC,Unknown,222
+2022,CA-504,Sonoma County CoC,Female,1697
+2022,CA-504,Sonoma County CoC,Male,2194
+2022,CA-504,Sonoma County CoC,Non-Singular Gender,17
+2022,CA-504,Sonoma County CoC,Questioning Gender,*
+2022,CA-504,Sonoma County CoC,Transgender,22
+2022,CA-504,Sonoma County CoC,Unknown,*
+2022,CA-505,Contra Costa County CoC,Female,4060
+2022,CA-505,Contra Costa County CoC,Male,4969
+2022,CA-505,Contra Costa County CoC,Non-Singular Gender,*
+2022,CA-505,Contra Costa County CoC,Questioning Gender,*
+2022,CA-505,Contra Costa County CoC,Transgender,21
+2022,CA-505,Contra Costa County CoC,Unknown,20
+2022,CA-506,"Monterey, San Benito Counties CoC",Female,1223
+2022,CA-506,"Monterey, San Benito Counties CoC",Male,1344
+2022,CA-506,"Monterey, San Benito Counties CoC",Non-Singular Gender,*
+2022,CA-506,"Monterey, San Benito Counties CoC",Transgender,*
+2022,CA-506,"Monterey, San Benito Counties CoC",Unknown,*
+2022,CA-507,Marin County CoC,Female,785
+2022,CA-507,Marin County CoC,Male,973
+2022,CA-507,Marin County CoC,Non-Singular Gender,*
+2022,CA-507,Marin County CoC,Questioning Gender,*
+2022,CA-507,Marin County CoC,Transgender,*
+2022,CA-507,Marin County CoC,Unknown,*
+2022,CA-508,Santa Cruz County CoC,Female,916
+2022,CA-508,Santa Cruz County CoC,Male,1046
+2022,CA-508,Santa Cruz County CoC,Non-Singular Gender,*
+2022,CA-508,Santa Cruz County CoC,Transgender,*
+2022,CA-508,Santa Cruz County CoC,Unknown,*
+2022,CA-509,Mendocino County CoC,Female,768
+2022,CA-509,Mendocino County CoC,Male,806
+2022,CA-509,Mendocino County CoC,Non-Singular Gender,*
+2022,CA-509,Mendocino County CoC,Transgender,*
+2022,CA-509,Mendocino County CoC,Unknown,*
+2022,CA-510,Stanislaus County CoC,Female,2680
+2022,CA-510,Stanislaus County CoC,Male,3629
+2022,CA-510,Stanislaus County CoC,Non-Singular Gender,14
+2022,CA-510,Stanislaus County CoC,Questioning Gender,*
+2022,CA-510,Stanislaus County CoC,Transgender,12
+2022,CA-510,Stanislaus County CoC,Unknown,16
+2022,CA-511,San Joaquin County CoC,Female,4597
+2022,CA-511,San Joaquin County CoC,Male,5038
+2022,CA-511,San Joaquin County CoC,Non-Singular Gender,*
+2022,CA-511,San Joaquin County CoC,Questioning Gender,*
+2022,CA-511,San Joaquin County CoC,Transgender,15
+2022,CA-511,San Joaquin County CoC,Unknown,35
+2022,CA-512,San Mateo County CoC,Female,1774
+2022,CA-512,San Mateo County CoC,Male,2449
+2022,CA-512,San Mateo County CoC,Non-Singular Gender,*
+2022,CA-512,San Mateo County CoC,Transgender,14
+2022,CA-512,San Mateo County CoC,Unknown,*
+2022,CA-513,"Kings, Tulare Counties CoC",Female,2180
+2022,CA-513,"Kings, Tulare Counties CoC",Male,2012
+2022,CA-513,"Kings, Tulare Counties CoC",Non-Singular Gender,*
+2022,CA-513,"Kings, Tulare Counties CoC",Transgender,*
+2022,CA-513,"Kings, Tulare Counties CoC",Unknown,*
+2022,CA-514,"Fresno, Madera Counties CoC",Female,3407
+2022,CA-514,"Fresno, Madera Counties CoC",Male,4607
+2022,CA-514,"Fresno, Madera Counties CoC",Non-Singular Gender,*
+2022,CA-514,"Fresno, Madera Counties CoC",Questioning Gender,*
+2022,CA-514,"Fresno, Madera Counties CoC",Transgender,30
+2022,CA-514,"Fresno, Madera Counties CoC",Unknown,40
+2022,CA-515,Placer County CoC,Female,1155
+2022,CA-515,Placer County CoC,Male,1317
+2022,CA-515,Placer County CoC,Non-Singular Gender,*
+2022,CA-515,Placer County CoC,Questioning Gender,*
+2022,CA-515,Placer County CoC,Transgender,*
+2022,CA-515,Placer County CoC,Unknown,17
+2022,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Female,1044
+2022,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Male,1093
+2022,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Non-Singular Gender,*
+2022,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Questioning Gender,*
+2022,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Transgender,*
+2022,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Unknown,18
+2022,CA-517,Napa County CoC,Female,349
+2022,CA-517,Napa County CoC,Male,575
+2022,CA-517,Napa County CoC,Non-Singular Gender,*
+2022,CA-517,Napa County CoC,Transgender,*
+2022,CA-517,Napa County CoC,Unknown,*
+2022,CA-518,Solano County CoC,Female,521
+2022,CA-518,Solano County CoC,Male,764
+2022,CA-518,Solano County CoC,Transgender,*
+2022,CA-518,Solano County CoC,Unknown,*
+2022,CA-519,Butte County CoC,Female,1095
+2022,CA-519,Butte County CoC,Male,1382
+2022,CA-519,Butte County CoC,Non-Singular Gender,*
+2022,CA-519,Butte County CoC,Transgender,*
+2022,CA-519,Butte County CoC,Unknown,*
+2022,CA-520,Merced County CoC,Female,2996
+2022,CA-520,Merced County CoC,Male,2584
+2022,CA-520,Merced County CoC,Non-Singular Gender,*
+2022,CA-520,Merced County CoC,Questioning Gender,*
+2022,CA-520,Merced County CoC,Transgender,*
+2022,CA-520,Merced County CoC,Unknown,*
+2022,CA-521,Yolo County CoC,Female,717
+2022,CA-521,Yolo County CoC,Male,710
+2022,CA-521,Yolo County CoC,Non-Singular Gender,*
+2022,CA-521,Yolo County CoC,Transgender,*
+2022,CA-521,Yolo County CoC,Unknown,66
+2022,CA-522,Humboldt County CoC,Female,971
+2022,CA-522,Humboldt County CoC,Male,1367
+2022,CA-522,Humboldt County CoC,Non-Singular Gender,29
+2022,CA-522,Humboldt County CoC,Questioning Gender,*
+2022,CA-522,Humboldt County CoC,Transgender,17
+2022,CA-522,Humboldt County CoC,Unknown,146
+2022,CA-523,"Colusa, Glenn, Trinity Counties CoC",Female,343
+2022,CA-523,"Colusa, Glenn, Trinity Counties CoC",Male,284
+2022,CA-523,"Colusa, Glenn, Trinity Counties CoC",Unknown,*
+2022,CA-524,"Yuba, Sutter Counties CoC",Female,1404
+2022,CA-524,"Yuba, Sutter Counties CoC",Male,1230
+2022,CA-524,"Yuba, Sutter Counties CoC",Non-Singular Gender,*
+2022,CA-524,"Yuba, Sutter Counties CoC",Transgender,*
+2022,CA-525,El Dorado County CoC,Female,183
+2022,CA-525,El Dorado County CoC,Male,227
+2022,CA-525,El Dorado County CoC,Non-Singular Gender,*
+2022,CA-525,El Dorado County CoC,Transgender,*
+2022,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Female,447
+2022,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Male,346
+2022,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Non-Singular Gender,*
+2022,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Questioning Gender,*
+2022,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Transgender,*
+2022,CA-527,Tehama County CoC,Female,330
+2022,CA-527,Tehama County CoC,Male,360
+2022,CA-527,Tehama County CoC,Transgender,*
+2022,CA-527,Tehama County CoC,Unknown,*
+2022,CA-529,Lake County CoC,Female,154
+2022,CA-529,Lake County CoC,Male,178
+2022,CA-529,Lake County CoC,Transgender,*
+2022,CA-529,Lake County CoC,Unknown,*
+2022,CA-530,"Alpine, Inyo, Mono Counties CoC",Female,97
+2022,CA-530,"Alpine, Inyo, Mono Counties CoC",Male,101
+2022,CA-531,Nevada County CoC,Female,450
+2022,CA-531,Nevada County CoC,Male,549
+2022,CA-531,Nevada County CoC,Non-Singular Gender,*
+2022,CA-531,Nevada County CoC,Transgender,*
+2022,CA-531,Nevada County CoC,Unknown,24
+2022,CA-600,Los Angeles County CoC,Female,35694
+2022,CA-600,Los Angeles County CoC,Male,54097
+2022,CA-600,Los Angeles County CoC,Non-Singular Gender,204
+2022,CA-600,Los Angeles County CoC,Questioning Gender,*
+2022,CA-600,Los Angeles County CoC,Transgender,669
+2022,CA-600,Los Angeles County CoC,Unknown,1402
+2022,CA-601,San Diego County CoC,Female,10493
+2022,CA-601,San Diego County CoC,Male,14487
+2022,CA-601,San Diego County CoC,Non-Singular Gender,81
+2022,CA-601,San Diego County CoC,Questioning Gender,*
+2022,CA-601,San Diego County CoC,Transgender,139
+2022,CA-601,San Diego County CoC,Unknown,76
+2022,CA-602,Orange County CoC,Female,8625
+2022,CA-602,Orange County CoC,Male,11365
+2022,CA-602,Orange County CoC,Non-Singular Gender,51
+2022,CA-602,Orange County CoC,Questioning Gender,*
+2022,CA-602,Orange County CoC,Transgender,42
+2022,CA-602,Orange County CoC,Unknown,2924
+2022,CA-603,Santa Barbara County CoC,Female,1632
+2022,CA-603,Santa Barbara County CoC,Male,2221
+2022,CA-603,Santa Barbara County CoC,Non-Singular Gender,13
+2022,CA-603,Santa Barbara County CoC,Questioning Gender,*
+2022,CA-603,Santa Barbara County CoC,Transgender,13
+2022,CA-603,Santa Barbara County CoC,Unknown,*
+2022,CA-604,Kern County CoC,Female,4082
+2022,CA-604,Kern County CoC,Male,4542
+2022,CA-604,Kern County CoC,Non-Singular Gender,*
+2022,CA-604,Kern County CoC,Questioning Gender,*
+2022,CA-604,Kern County CoC,Transgender,19
+2022,CA-606,Long Beach CoC (Los Angeles County),Female,1775
+2022,CA-606,Long Beach CoC (Los Angeles County),Male,2689
+2022,CA-606,Long Beach CoC (Los Angeles County),Non-Singular Gender,*
+2022,CA-606,Long Beach CoC (Los Angeles County),Questioning Gender,*
+2022,CA-606,Long Beach CoC (Los Angeles County),Transgender,17
+2022,CA-606,Long Beach CoC (Los Angeles County),Unknown,*
+2022,CA-607,Pasadena CoC (Los Angeles County),Female,466
+2022,CA-607,Pasadena CoC (Los Angeles County),Male,596
+2022,CA-607,Pasadena CoC (Los Angeles County),Non-Singular Gender,*
+2022,CA-607,Pasadena CoC (Los Angeles County),Transgender,*
+2022,CA-607,Pasadena CoC (Los Angeles County),Unknown,33
+2022,CA-608,Riverside County CoC,Female,4751
+2022,CA-608,Riverside County CoC,Male,5325
+2022,CA-608,Riverside County CoC,Non-Singular Gender,29
+2022,CA-608,Riverside County CoC,Questioning Gender,*
+2022,CA-608,Riverside County CoC,Transgender,57
+2022,CA-608,Riverside County CoC,Unknown,23
+2022,CA-609,San Bernardino County CoC,Female,5255
+2022,CA-609,San Bernardino County CoC,Male,5144
+2022,CA-609,San Bernardino County CoC,Non-Singular Gender,12
+2022,CA-609,San Bernardino County CoC,Questioning Gender,*
+2022,CA-609,San Bernardino County CoC,Transgender,19
+2022,CA-609,San Bernardino County CoC,Unknown,*
+2022,CA-611,Ventura County CoC,Female,1257
+2022,CA-611,Ventura County CoC,Male,1631
+2022,CA-611,Ventura County CoC,Non-Singular Gender,*
+2022,CA-611,Ventura County CoC,Questioning Gender,*
+2022,CA-611,Ventura County CoC,Transgender,15
+2022,CA-611,Ventura County CoC,Unknown,*
+2022,CA-612,Glendale CoC (Los Angeles County),Female,309
+2022,CA-612,Glendale CoC (Los Angeles County),Male,391
+2022,CA-612,Glendale CoC (Los Angeles County),Non-Singular Gender,*
+2022,CA-612,Glendale CoC (Los Angeles County),Transgender,13
+2022,CA-613,Imperial County CoC,Female,971
+2022,CA-613,Imperial County CoC,Male,873
+2022,CA-613,Imperial County CoC,Transgender,*
+2022,CA-613,Imperial County CoC,Unknown,*
+2022,CA-614,San Luis Obispo County CoC,Female,1272
+2022,CA-614,San Luis Obispo County CoC,Male,1552
+2022,CA-614,San Luis Obispo County CoC,Non-Singular Gender,*
+2022,CA-614,San Luis Obispo County CoC,Transgender,*
+2022,CA-614,San Luis Obispo County CoC,Unknown,15
+2023 Q1,All,California,Female,88989
+2023 Q1,All,California,Male,113932
+2023 Q1,All,California,Non-Singular Gender,561
+2023 Q1,All,California,Questioning Gender,37
+2023 Q1,All,California,Transgender,960
+2023 Q1,All,California,Unknown,2879
+2023 Q1,CA-500,Santa Clara County CoC,Female,5629
+2023 Q1,CA-500,Santa Clara County CoC,Male,7375
+2023 Q1,CA-500,Santa Clara County CoC,Non-Singular Gender,28
+2023 Q1,CA-500,Santa Clara County CoC,Questioning Gender,*
+2023 Q1,CA-500,Santa Clara County CoC,Transgender,42
+2023 Q1,CA-500,Santa Clara County CoC,Unknown,27
+2023 Q1,CA-501,San Francisco CoC,Female,3976
+2023 Q1,CA-501,San Francisco CoC,Male,6036
+2023 Q1,CA-501,San Francisco CoC,Non-Singular Gender,76
+2023 Q1,CA-501,San Francisco CoC,Questioning Gender,*
+2023 Q1,CA-501,San Francisco CoC,Transgender,127
+2023 Q1,CA-501,San Francisco CoC,Unknown,131
+2023 Q1,CA-502,Alameda County CoC,Female,3547
+2023 Q1,CA-502,Alameda County CoC,Male,4812
+2023 Q1,CA-502,Alameda County CoC,Non-Singular Gender,37
+2023 Q1,CA-502,Alameda County CoC,Questioning Gender,*
+2023 Q1,CA-502,Alameda County CoC,Transgender,16
+2023 Q1,CA-502,Alameda County CoC,Unknown,12
+2023 Q1,CA-503,Sacramento County CoC,Female,3401
+2023 Q1,CA-503,Sacramento County CoC,Male,3439
+2023 Q1,CA-503,Sacramento County CoC,Non-Singular Gender,43
+2023 Q1,CA-503,Sacramento County CoC,Transgender,20
+2023 Q1,CA-503,Sacramento County CoC,Unknown,195
+2023 Q1,CA-504,Sonoma County CoC,Female,1090
+2023 Q1,CA-504,Sonoma County CoC,Male,1405
+2023 Q1,CA-504,Sonoma County CoC,Non-Singular Gender,*
+2023 Q1,CA-504,Sonoma County CoC,Questioning Gender,*
+2023 Q1,CA-504,Sonoma County CoC,Transgender,14
+2023 Q1,CA-504,Sonoma County CoC,Unknown,*
+2023 Q1,CA-505,Contra Costa County CoC,Female,3838
+2023 Q1,CA-505,Contra Costa County CoC,Male,4716
+2023 Q1,CA-505,Contra Costa County CoC,Non-Singular Gender,*
+2023 Q1,CA-505,Contra Costa County CoC,Questioning Gender,*
+2023 Q1,CA-505,Contra Costa County CoC,Transgender,12
+2023 Q1,CA-505,Contra Costa County CoC,Unknown,19
+2023 Q1,CA-506,"Monterey, San Benito Counties CoC",Female,698
+2023 Q1,CA-506,"Monterey, San Benito Counties CoC",Male,768
+2023 Q1,CA-506,"Monterey, San Benito Counties CoC",Non-Singular Gender,*
+2023 Q1,CA-506,"Monterey, San Benito Counties CoC",Transgender,*
+2023 Q1,CA-506,"Monterey, San Benito Counties CoC",Unknown,*
+2023 Q1,CA-507,Marin County CoC,Female,466
+2023 Q1,CA-507,Marin County CoC,Male,580
+2023 Q1,CA-507,Marin County CoC,Non-Singular Gender,*
+2023 Q1,CA-507,Marin County CoC,Transgender,*
+2023 Q1,CA-507,Marin County CoC,Unknown,*
+2023 Q1,CA-508,Santa Cruz County CoC,Female,590
+2023 Q1,CA-508,Santa Cruz County CoC,Male,764
+2023 Q1,CA-508,Santa Cruz County CoC,Non-Singular Gender,*
+2023 Q1,CA-508,Santa Cruz County CoC,Transgender,*
+2023 Q1,CA-508,Santa Cruz County CoC,Unknown,*
+2023 Q1,CA-509,Mendocino County CoC,Female,490
+2023 Q1,CA-509,Mendocino County CoC,Male,506
+2023 Q1,CA-509,Mendocino County CoC,Non-Singular Gender,*
+2023 Q1,CA-509,Mendocino County CoC,Transgender,*
+2023 Q1,CA-509,Mendocino County CoC,Unknown,*
+2023 Q1,CA-510,Stanislaus County CoC,Female,1318
+2023 Q1,CA-510,Stanislaus County CoC,Male,1863
+2023 Q1,CA-510,Stanislaus County CoC,Non-Singular Gender,*
+2023 Q1,CA-510,Stanislaus County CoC,Questioning Gender,*
+2023 Q1,CA-510,Stanislaus County CoC,Transgender,*
+2023 Q1,CA-510,Stanislaus County CoC,Unknown,*
+2023 Q1,CA-511,San Joaquin County CoC,Female,1828
+2023 Q1,CA-511,San Joaquin County CoC,Male,2277
+2023 Q1,CA-511,San Joaquin County CoC,Non-Singular Gender,*
+2023 Q1,CA-511,San Joaquin County CoC,Transgender,*
+2023 Q1,CA-511,San Joaquin County CoC,Unknown,32
+2023 Q1,CA-512,San Mateo County CoC,Female,1376
+2023 Q1,CA-512,San Mateo County CoC,Male,1860
+2023 Q1,CA-512,San Mateo County CoC,Non-Singular Gender,*
+2023 Q1,CA-512,San Mateo County CoC,Transgender,*
+2023 Q1,CA-512,San Mateo County CoC,Unknown,21
+2023 Q1,CA-513,"Kings, Tulare Counties CoC",Female,1221
+2023 Q1,CA-513,"Kings, Tulare Counties CoC",Male,1146
+2023 Q1,CA-513,"Kings, Tulare Counties CoC",Non-Singular Gender,*
+2023 Q1,CA-513,"Kings, Tulare Counties CoC",Transgender,*
+2023 Q1,CA-513,"Kings, Tulare Counties CoC",Unknown,*
+2023 Q1,CA-514,"Fresno, Madera Counties CoC",Female,2439
+2023 Q1,CA-514,"Fresno, Madera Counties CoC",Male,3520
+2023 Q1,CA-514,"Fresno, Madera Counties CoC",Non-Singular Gender,*
+2023 Q1,CA-514,"Fresno, Madera Counties CoC",Questioning Gender,*
+2023 Q1,CA-514,"Fresno, Madera Counties CoC",Transgender,26
+2023 Q1,CA-514,"Fresno, Madera Counties CoC",Unknown,33
+2023 Q1,CA-515,Placer County CoC,Female,736
+2023 Q1,CA-515,Placer County CoC,Male,869
+2023 Q1,CA-515,Placer County CoC,Non-Singular Gender,*
+2023 Q1,CA-515,Placer County CoC,Transgender,*
+2023 Q1,CA-515,Placer County CoC,Unknown,12
+2023 Q1,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Female,727
+2023 Q1,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Male,779
+2023 Q1,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Non-Singular Gender,*
+2023 Q1,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Transgender,*
+2023 Q1,CA-516,"Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Unknown,16
+2023 Q1,CA-517,Napa County CoC,Female,259
+2023 Q1,CA-517,Napa County CoC,Male,374
+2023 Q1,CA-517,Napa County CoC,Non-Singular Gender,*
+2023 Q1,CA-517,Napa County CoC,Transgender,*
+2023 Q1,CA-517,Napa County CoC,Unknown,*
+2023 Q1,CA-518,Solano County CoC,Female,297
+2023 Q1,CA-518,Solano County CoC,Male,394
+2023 Q1,CA-518,Solano County CoC,Non-Singular Gender,*
+2023 Q1,CA-518,Solano County CoC,Transgender,*
+2023 Q1,CA-518,Solano County CoC,Unknown,*
+2023 Q1,CA-519,Butte County CoC,Female,884
+2023 Q1,CA-519,Butte County CoC,Male,1069
+2023 Q1,CA-519,Butte County CoC,Non-Singular Gender,*
+2023 Q1,CA-519,Butte County CoC,Transgender,*
+2023 Q1,CA-519,Butte County CoC,Unknown,50
+2023 Q1,CA-520,Merced County CoC,Female,2921
+2023 Q1,CA-520,Merced County CoC,Male,2360
+2023 Q1,CA-520,Merced County CoC,Non-Singular Gender,*
+2023 Q1,CA-520,Merced County CoC,Questioning Gender,*
+2023 Q1,CA-520,Merced County CoC,Transgender,*
+2023 Q1,CA-520,Merced County CoC,Unknown,*
+2023 Q1,CA-521,Yolo County CoC,Female,427
+2023 Q1,CA-521,Yolo County CoC,Male,416
+2023 Q1,CA-521,Yolo County CoC,Transgender,*
+2023 Q1,CA-521,Yolo County CoC,Unknown,53
+2023 Q1,CA-522,Humboldt County CoC,Female,755
+2023 Q1,CA-522,Humboldt County CoC,Male,1057
+2023 Q1,CA-522,Humboldt County CoC,Non-Singular Gender,22
+2023 Q1,CA-522,Humboldt County CoC,Questioning Gender,*
+2023 Q1,CA-522,Humboldt County CoC,Transgender,*
+2023 Q1,CA-522,Humboldt County CoC,Unknown,111
+2023 Q1,CA-523,"Colusa, Glenn, Trinity Counties CoC",Female,159
+2023 Q1,CA-523,"Colusa, Glenn, Trinity Counties CoC",Male,142
+2023 Q1,CA-523,"Colusa, Glenn, Trinity Counties CoC",Unknown,*
+2023 Q1,CA-524,"Yuba, Sutter Counties CoC",Female,946
+2023 Q1,CA-524,"Yuba, Sutter Counties CoC",Male,881
+2023 Q1,CA-524,"Yuba, Sutter Counties CoC",Non-Singular Gender,*
+2023 Q1,CA-524,"Yuba, Sutter Counties CoC",Transgender,*
+2023 Q1,CA-525,El Dorado County CoC,Female,150
+2023 Q1,CA-525,El Dorado County CoC,Male,215
+2023 Q1,CA-525,El Dorado County CoC,Non-Singular Gender,*
+2023 Q1,CA-525,El Dorado County CoC,Transgender,*
+2023 Q1,CA-525,El Dorado County CoC,Unknown,*
+2023 Q1,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Female,215
+2023 Q1,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Male,182
+2023 Q1,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Non-Singular Gender,*
+2023 Q1,CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Questioning Gender,*
+2023 Q1,CA-527,Tehama County CoC,Female,180
+2023 Q1,CA-527,Tehama County CoC,Male,237
+2023 Q1,CA-527,Tehama County CoC,Transgender,*
+2023 Q1,CA-527,Tehama County CoC,Unknown,*
+2023 Q1,CA-529,Lake County CoC,Female,109
+2023 Q1,CA-529,Lake County CoC,Male,118
+2023 Q1,CA-529,Lake County CoC,Transgender,*
+2023 Q1,CA-529,Lake County CoC,Unknown,19
+2023 Q1,CA-530,"Alpine, Inyo, Mono Counties CoC",Female,49
+2023 Q1,CA-530,"Alpine, Inyo, Mono Counties CoC",Male,38
+2023 Q1,CA-531,Nevada County CoC,Female,325
+2023 Q1,CA-531,Nevada County CoC,Male,415
+2023 Q1,CA-531,Nevada County CoC,Non-Singular Gender,*
+2023 Q1,CA-531,Nevada County CoC,Transgender,*
+2023 Q1,CA-531,Nevada County CoC,Unknown,*
+2023 Q1,CA-600,Los Angeles County CoC,Female,23669
+2023 Q1,CA-600,Los Angeles County CoC,Male,33966
+2023 Q1,CA-600,Los Angeles County CoC,Non-Singular Gender,144
+2023 Q1,CA-600,Los Angeles County CoC,Questioning Gender,*
+2023 Q1,CA-600,Los Angeles County CoC,Transgender,413
+2023 Q1,CA-600,Los Angeles County CoC,Unknown,1216
+2023 Q1,CA-601,San Diego County CoC,Female,6599
+2023 Q1,CA-601,San Diego County CoC,Male,8339
+2023 Q1,CA-601,San Diego County CoC,Non-Singular Gender,48
+2023 Q1,CA-601,San Diego County CoC,Questioning Gender,*
+2023 Q1,CA-601,San Diego County CoC,Transgender,86
+2023 Q1,CA-601,San Diego County CoC,Unknown,34
+2023 Q1,CA-602,Orange County CoC,Female,5301
+2023 Q1,CA-602,Orange County CoC,Male,6516
+2023 Q1,CA-602,Orange County CoC,Non-Singular Gender,35
+2023 Q1,CA-602,Orange County CoC,Questioning Gender,*
+2023 Q1,CA-602,Orange County CoC,Transgender,29
+2023 Q1,CA-602,Orange County CoC,Unknown,702
+2023 Q1,CA-603,Santa Barbara County CoC,Female,866
+2023 Q1,CA-603,Santa Barbara County CoC,Male,1301
+2023 Q1,CA-603,Santa Barbara County CoC,Non-Singular Gender,*
+2023 Q1,CA-603,Santa Barbara County CoC,Transgender,*
+2023 Q1,CA-603,Santa Barbara County CoC,Unknown,58
+2023 Q1,CA-604,Kern County CoC,Female,2176
+2023 Q1,CA-604,Kern County CoC,Male,2521
+2023 Q1,CA-604,Kern County CoC,Non-Singular Gender,*
+2023 Q1,CA-604,Kern County CoC,Transgender,*
+2023 Q1,CA-606,Long Beach CoC (Los Angeles County),Female,1567
+2023 Q1,CA-606,Long Beach CoC (Los Angeles County),Male,2257
+2023 Q1,CA-606,Long Beach CoC (Los Angeles County),Non-Singular Gender,*
+2023 Q1,CA-606,Long Beach CoC (Los Angeles County),Transgender,17
+2023 Q1,CA-606,Long Beach CoC (Los Angeles County),Unknown,14
+2023 Q1,CA-607,Pasadena CoC (Los Angeles County),Female,308
+2023 Q1,CA-607,Pasadena CoC (Los Angeles County),Male,466
+2023 Q1,CA-607,Pasadena CoC (Los Angeles County),Non-Singular Gender,*
+2023 Q1,CA-607,Pasadena CoC (Los Angeles County),Transgender,*
+2023 Q1,CA-607,Pasadena CoC (Los Angeles County),Unknown,18
+2023 Q1,CA-608,Riverside County CoC,Female,2632
+2023 Q1,CA-608,Riverside County CoC,Male,3153
+2023 Q1,CA-608,Riverside County CoC,Non-Singular Gender,12
+2023 Q1,CA-608,Riverside County CoC,Questioning Gender,*
+2023 Q1,CA-608,Riverside County CoC,Transgender,35
+2023 Q1,CA-608,Riverside County CoC,Unknown,16
+2023 Q1,CA-609,San Bernardino County CoC,Female,3581
+2023 Q1,CA-609,San Bernardino County CoC,Male,3368
+2023 Q1,CA-609,San Bernardino County CoC,Non-Singular Gender,*
+2023 Q1,CA-609,San Bernardino County CoC,Questioning Gender,*
+2023 Q1,CA-609,San Bernardino County CoC,Transgender,12
+2023 Q1,CA-609,San Bernardino County CoC,Unknown,*
+2023 Q1,CA-611,Ventura County CoC,Female,815
+2023 Q1,CA-611,Ventura County CoC,Male,1160
+2023 Q1,CA-611,Ventura County CoC,Non-Singular Gender,*
+2023 Q1,CA-611,Ventura County CoC,Questioning Gender,*
+2023 Q1,CA-611,Ventura County CoC,Transgender,12
+2023 Q1,CA-611,Ventura County CoC,Unknown,*
+2023 Q1,CA-612,Glendale CoC (Los Angeles County),Female,190
+2023 Q1,CA-612,Glendale CoC (Los Angeles County),Male,223
+2023 Q1,CA-612,Glendale CoC (Los Angeles County),Non-Singular Gender,*
+2023 Q1,CA-612,Glendale CoC (Los Angeles County),Transgender,*
+2023 Q1,CA-613,Imperial County CoC,Female,570
+2023 Q1,CA-613,Imperial County CoC,Male,528
+2023 Q1,CA-613,Imperial County CoC,Non-Singular Gender,*
+2023 Q1,CA-613,Imperial County CoC,Transgender,*
+2023 Q1,CA-613,Imperial County CoC,Unknown,*
+2023 Q1,CA-614,San Luis Obispo County CoC,Female,989
+2023 Q1,CA-614,San Luis Obispo County CoC,Male,1239
+2023 Q1,CA-614,San Luis Obispo County CoC,Non-Singular Gender,*
+2023 Q1,CA-614,San Luis Obispo County CoC,Transgender,*
+2023 Q1,CA-614,San Luis Obispo County CoC,Unknown,19
