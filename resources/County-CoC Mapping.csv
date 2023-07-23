@@ -1,4 +1,4 @@
-﻿County,Continuum of Care
+County,Continuum of Care
 Alameda County,Alameda County CoC
 Alpine County,"Alpine, Inyo, Mono Counties CoC"
 Inyo County,"Alpine, Inyo, Mono Counties CoC"
@@ -8,7 +8,6 @@ Calaveras County,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC"
 Mariposa County,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC"
 Tuolumne County,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC"
 Butte County,Butte County CoC
-California,California
 Colusa County,"Colusa, Glenn, Trinity Counties CoC"
 Glenn County,"Colusa, Glenn, Trinity Counties CoC"
 Trinity County,"Colusa, Glenn, Trinity Counties CoC"
@@ -36,7 +35,7 @@ Riverside County,Riverside County CoC
 Sacramento County,Sacramento County CoC
 San Bernardino County,San Bernardino County CoC
 San Diego County,San Diego County CoC
-San Francisco,San Francisco CoC
+San Francisco County,San Francisco CoC
 San Joaquin County,San Joaquin County CoC
 San Luis Obispo County,San Luis Obispo County CoC
 San Mateo County,San Mateo County CoC
